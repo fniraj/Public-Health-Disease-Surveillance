@@ -1,0 +1,1482 @@
+PatientID,Name,DOB,Gender,Race,Ethnicity,City,EncounterCount,CovidConfirmed
+1,Abby752 Louann705 Hermiston71,9/1/2011,female,Other,Not Hispanic or Latino,Marquette,29,FALSE
+2,Abdul218 Weldon459 Turcotte120,8/29/1955,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+3,Abel832 Daron260 Graham902,10/26/1973,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,18,FALSE
+4,Abel832 Larson43,6/25/1997,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,22,FALSE
+5,Abraham100 Zachary28 Nitzsche158,10/14/1958,male,Other,Not Hispanic or Latino,Marquette,61,FALSE
+6,Abram53 Willie882 Prosacco716,3/9/1957,male,White,Not Hispanic or Latino,Marquette,138,FALSE
+7,Abram53 Saul605 Schuppe920,5/17/1940,male,White,Not Hispanic or Latino,Marquette,48,FALSE
+8,Ada662 Clarissa466 Ullrich385,9/20/1975,female,White,Not Hispanic or Latino,Marquette,16,FALSE
+9,Adalberto916 Price929,12/3/2016,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+10,Adam631 Booker670 Olson653,11/8/1979,male,Other,Not Hispanic or Latino,Marquette,12,FALSE
+11,Adam631 Gaylord332 Raynor401,5/7/1962,male,White,Not Hispanic or Latino,Marquette,645,FALSE
+12,Adan632 Preston275 Douglas31,4/17/1966,male,White,Not Hispanic or Latino,Marquette,23,FALSE
+13,Adela471 Daniel959 Grant908,6/26/1971,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,64,FALSE
+14,Adelina682 Narcisa997 Cartwright189,4/5/2021,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,16,FALSE
+15,Adeline686 Versie644 Hayes766,10/29/1951,female,White,Not Hispanic or Latino,Marquette,252,FALSE
+16,Adell482 Bartoletti50,9/9/2012,female,White,Not Hispanic or Latino,Marquette,22,FALSE
+17,Adell482 Un745 Nikolaus26,3/15/1940,female,White,Not Hispanic or Latino,Marquette,434,FALSE
+18,Adolfo777 Crona259,12/24/2013,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+19,Adolfo777 Lon587 O'Hara248,12/27/1961,male,White,Not Hispanic or Latino,Marquette,8,FALSE
+20,Adriane398 Josie226 Friesen796,6/25/1961,female,White,Not Hispanic or Latino,Marquette,47,FALSE
+21,Adrianna470 Tamekia382 Corkery305,5/17/1964,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,159,FALSE
+22,Afton574 Mosciski958,11/21/1960,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,106,FALSE
+23,Agnes294 Tonda472 Brakus656,1/23/2008,female,White,Not Hispanic or Latino,Marquette,25,FALSE
+24,Agnus790 Harold594 Hessel84,11/4/2019,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,24,FALSE
+25,Agustin437 Hayden835 Fay398,4/11/1953,male,White,Not Hispanic or Latino,Marquette,100,FALSE
+26,Ahmad985 Courtney281 Daugherty69,11/3/1961,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+27,Alaina222 Grazyna952 Bernier607,4/17/1982,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+28,Alanna27 Blanche121 Rippin620,10/29/1992,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,58,FALSE
+29,Albert312 Trantow673,9/11/1974,female,White,Not Hispanic or Latino,Marquette,104,FALSE
+30,Albertine688 Henriette328 Bashirian201,9/10/1960,female,White,Not Hispanic or Latino,Marquette,58,FALSE
+31,Alberto639 Cruickshank494,1/6/2025,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,2,FALSE
+32,Alberto639 Hugo693 HernÃ¡dez343,8/24/1957,male,White,Hispanic or Latino,Marquette,45,FALSE
+33,Alden634 Lesley194 Bosco882,7/4/1957,male,White,Not Hispanic or Latino,Marquette,384,FALSE
+34,Aldo414 Tad831 Hackett68,12/30/1980,male,White,Hispanic or Latino,Marquette,11,FALSE
+35,Aleen595 Flor713 Balistreri607,7/26/1946,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+36,Aleida76 Aja848 Satterfield305,11/6/2015,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,21,FALSE
+37,Alena861 Rohan584,2/2/1961,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,96,FALSE
+38,Alene865 Jesica465 Jaskolski867,3/3/1969,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+39,Alesha810 Bergstrom287,11/5/2008,female,White,Not Hispanic or Latino,Marquette,23,TRUE
+40,Alesha810 Jaimee549 Kuphal363,6/2/1960,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+41,Alesia841 Kiana854 Jast432,7/2/1971,female,White,Not Hispanic or Latino,Marquette,62,FALSE
+42,Alexander630 Herma433 Champlin946,4/20/2006,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+43,Alexander630 Koepp521,11/15/1966,male,White,Not Hispanic or Latino,Marquette,182,FALSE
+44,Alexander630 Damien170 Turcotte120,2/26/1998,male,White,Not Hispanic or Latino,Marquette,13,FALSE
+45,Alexandra16 Glennis930 Prosacco716,8/19/2006,female,White,Not Hispanic or Latino,Marquette,100,FALSE
+46,Alexis664 Kenneth671 Feil794,9/16/1966,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+47,Alfredo17 Alonso270 Pfannerstill264,5/27/1925,male,White,Not Hispanic or Latino,Marquette,743,FALSE
+48,Ali918 Gilberto712 Flatley871,7/17/1926,male,White,Not Hispanic or Latino,Marquette,132,FALSE
+49,Alida395 Bethel526 McClure239,9/30/1972,female,White,Not Hispanic or Latino,Marquette,52,FALSE
+50,Alise864 Joana79 Goldner995,10/6/1945,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,88,FALSE
+51,Alison204 Ritchie586,11/20/2021,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,22,FALSE
+52,Allan198 Seth414 Bauch723,9/29/2004,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+53,Alleen813 Connelly992,9/25/1972,female,White,Not Hispanic or Latino,Marquette,20,FALSE
+54,Allen322 Jewel43 Connelly992,7/8/1978,male,Black or African American,Not Hispanic or Latino,Marquette,33,FALSE
+55,Alma679 Heidy529 Parisian75,5/4/1972,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+56,Alonzo487 Dibbert990,11/16/1961,male,White,Not Hispanic or Latino,Marquette,83,FALSE
+57,Alphonse92 Fredrick998 Kuvalis369,8/18/1934,male,White,Not Hispanic or Latino,Marquette,353,FALSE
+58,Alta896 Bergstrom287,12/14/1966,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,55,FALSE
+59,Altagracia629 Stacy406 Christiansen251,9/10/1985,female,White,Not Hispanic or Latino,Marquette,45,FALSE
+60,Alton320 Arnulfo253 Gibson10,4/29/1964,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+61,Alton320 Brenton674 Kohler843,8/5/1960,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+62,Alton320 Neal874 Streich926,7/29/1959,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,214,TRUE
+63,Alvin56 Kerluke267,11/19/2019,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+64,Alvin56 Mac103 Mayer370,8/18/1934,male,White,Not Hispanic or Latino,Marquette,62,FALSE
+65,Alyssa971 Caroline183 Lang846,4/5/2008,female,White,Not Hispanic or Latino,Marquette,21,FALSE
+66,Amado512 Franklin857 Gorczany269,11/10/1969,male,White,Not Hispanic or Latino,Marquette,76,FALSE
+67,Amado512 Toby274 Will178,8/13/1949,male,White,Not Hispanic or Latino,Marquette,35,TRUE
+68,Amalia471 Lanie389 Leffler128,4/1/1960,female,White,Not Hispanic or Latino,Marquette,38,TRUE
+69,Amina496 Francine922 Reilly981,12/19/1949,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,72,FALSE
+70,Amos720 Simonis280,3/1/1993,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+71,Amy965 O'Connell601,7/24/1920,female,White,Not Hispanic or Latino,Marquette,58,FALSE
+72,Anastacia583 Loida499 Hirthe744,6/28/1955,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+73,Anderson154 Dillon740 Metz686,7/18/1952,male,White,Not Hispanic or Latino,Marquette,333,FALSE
+74,Anderson154 Thad495 Thompson596,1/21/1984,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+75,Andre610 Gregg522 Lubowitz58,4/30/1942,male,White,Not Hispanic or Latino,Marquette,608,FALSE
+76,Andre610 Natacha644 Hessel84,1/24/1926,female,White,Not Hispanic or Latino,Marquette,42,FALSE
+77,Andre610 Antone63 Tromp100,2/7/1957,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+78,Anette189 Orpha286 Reinger292,10/26/1943,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,330,FALSE
+79,Angelic427 Tressa150 Waters156,12/24/2006,female,White,Not Hispanic or Latino,Marquette,46,FALSE
+80,Angelika194 Daysi106 Hegmann834,9/24/1992,female,White,Not Hispanic or Latino,Marquette,64,FALSE
+81,Angelique249 Mitzi535 Dietrich576,5/16/1950,female,White,Not Hispanic or Latino,Marquette,69,FALSE
+82,Angelita915 Pagac496,6/5/1962,female,White,Not Hispanic or Latino,Marquette,455,FALSE
+83,Angelo118 Zack583 Price929,12/8/1946,male,White,Not Hispanic or Latino,Marquette,572,FALSE
+84,Angie214 Ullrich385,10/11/1975,female,Black or African American,Not Hispanic or Latino,Marquette,20,FALSE
+85,Anja508 Grisel924 Wilkinson796,2/13/1952,female,White,Not Hispanic or Latino,Marquette,78,FALSE
+86,Anna632 Samantha681 Auer97,7/1/1968,female,White,Not Hispanic or Latino,Marquette,16,FALSE
+87,Annis955 Benita195 Kuhn96,6/25/1990,female,White,Not Hispanic or Latino,Marquette,67,FALSE
+88,Anthony633 Erdman779,5/11/1967,female,White,Not Hispanic or Latino,Marquette,65,FALSE
+89,Anthony633 Mauro926 Greenholt190,4/23/1957,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,50,FALSE
+90,Antione404 Jackie93 Leffler128,11/27/1999,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,28,FALSE
+91,Antoine384 Enoch803 Schinner682,10/20/2019,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,42,FALSE
+92,Antone63 Bode78,4/12/2019,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+93,Antone63 Derek111 Nitzsche158,5/26/1963,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+94,Antonio44 Erin498 Dare640,11/3/1990,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+95,Anya973 Debi992 Grady603,5/15/2023,female,White,Hispanic or Latino,Marquette,8,FALSE
+96,Anya973 Emilee283 Hickle134,11/6/2006,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+97,Arden380 Ezra452 Wiza601,8/3/1944,male,White,Not Hispanic or Latino,Marquette,65,FALSE
+98,Arica110 Kattie846 Nader710,3/26/1952,female,White,Not Hispanic or Latino,Marquette,480,FALSE
+99,Ariel183 Orlando897 Roob72,9/12/2016,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,35,FALSE
+100,Arlen68 Kris249 Prosacco716,9/11/1947,male,White,Not Hispanic or Latino,Marquette,544,FALSE
+101,Arlette667 Kam191 Fisher429,1/28/1942,female,White,Not Hispanic or Latino,Marquette,54,FALSE
+102,Arlyne429 Hermann103,12/3/1925,female,White,Not Hispanic or Latino,Marquette,70,FALSE
+103,Armand155 John539 Wilderman619,6/9/1943,male,White,Not Hispanic or Latino,Marquette,75,FALSE
+104,Arnette709 Christi444 Hodkiewicz467,7/4/1976,female,White,Not Hispanic or Latino,Marquette,46,FALSE
+105,Arnold338 Weldon459 Lehner980,3/8/1948,male,White,Not Hispanic or Latino,Marquette,51,TRUE
+106,Arnulfo253 Cliff504 Weissnat378,8/18/1934,male,White,Not Hispanic or Latino,Marquette,369,FALSE
+107,Aron520 Rolf983 Effertz744,7/25/2003,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+108,Arthur650 Franklin857 Powlowski563,10/23/1967,male,White,Not Hispanic or Latino,Marquette,89,FALSE
+109,Ashanti808 Keva141 Waters156,7/25/2004,female,Black or African American,Not Hispanic or Latino,Marquette,34,FALSE
+110,Aubrey96 Kilback373,6/21/1981,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+111,August363 Elton404 Schaefer657,4/22/1984,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+112,Augusta206 Luci727 Donnelly343,3/10/1971,female,Black or African American,Not Hispanic or Latino,Marquette,84,FALSE
+113,Augustine565 Runte676,12/9/1952,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+114,Aurelio227 Coy949 Murray856,11/13/1945,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+115,Austin578 Olinda137 Hartmann983,1/16/1965,female,White,Not Hispanic or Latino,Marquette,36,FALSE
+116,Avery919 Donnie175 Denesik803,4/16/2003,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,42,FALSE
+117,Babette571 Galina98 Halvorson124,9/21/1993,female,White,Not Hispanic or Latino,Marquette,55,FALSE
+118,Bailey598 Meri607 Torphy630,9/17/1972,female,White,Not Hispanic or Latino,Marquette,65,FALSE
+119,Bambi5 Johnetta529 Hirthe744,12/30/1994,female,White,Not Hispanic or Latino,Marquette,21,TRUE
+120,Bao544 Dara636 Goodwin327,8/31/1943,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,90,FALSE
+121,Barbar976 Kellye282 Cummerata161,8/22/1996,female,White,Not Hispanic or Latino,Marquette,43,FALSE
+122,Barrie587 Estell607 Schinner682,7/24/1974,female,White,Not Hispanic or Latino,Marquette,65,FALSE
+123,Barry322 Robert854 Carroll471,5/10/1956,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+124,Beata187 Dede50 Johnston597,5/19/1988,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,72,FALSE
+125,Beau391 Runolfsson901,2/28/1970,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+126,Beaulah36 Maida946 Spencer878,12/10/1991,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,71,FALSE
+127,Becky854 Golden321 Zieme486,10/28/1941,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+128,Bell723 Leonora414 Hauck852,1/16/1967,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+129,Ben667 Lou594 Leuschke194,6/19/1967,male,White,Not Hispanic or Latino,Marquette,512,FALSE
+130,Benito209 Lowe577,6/22/1984,male,White,Not Hispanic or Latino,Marquette,76,FALSE
+131,Benjamin360 Mel236 Bauch723,6/14/1988,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+132,Benjamin360 Keenan632 Doyle959,4/6/1951,male,White,Not Hispanic or Latino,Marquette,90,FALSE
+133,Benjamin360 Larkin917,1/2/1966,male,White,Not Hispanic or Latino,Marquette,14,FALSE
+134,Bennett146 Rory188 Sanford861,4/28/1995,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+135,Benny518 Hegmann834,3/9/1998,male,White,Not Hispanic or Latino,Marquette,18,TRUE
+136,Benny518 Ozzie259 Hickle134,10/26/1945,male,White,Not Hispanic or Latino,Marquette,87,FALSE
+137,Benton624 Jones311,6/14/2012,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+138,Benton624 Andrew29 King743,11/13/1945,male,White,Not Hispanic or Latino,Marquette,56,FALSE
+139,Benton624 Jc393 Lakin515,1/26/1971,male,White,Not Hispanic or Latino,Marquette,47,FALSE
+140,Benton624 Judson999 O'Kon634,11/16/1946,male,White,Not Hispanic or Latino,Marquette,53,TRUE
+141,Bernadette714 Evangeline16 Kihn564,10/15/1917,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+142,Bernadette714 Dulcie148 Sawayn19,3/19/1956,female,White,Not Hispanic or Latino,Marquette,22,FALSE
+143,Bernadine674 Stephaine613 Swift555,11/6/1966,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+144,Bernardina456 Willms744,9/13/1936,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,111,FALSE
+145,Bernita55 Cleta89 Jerde200,7/12/2019,female,Other,Not Hispanic or Latino,Marquette,18,FALSE
+146,Berry486 Spencer878,2/21/1942,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,54,FALSE
+147,Berry486 Giselle809 Stracke611,2/11/2002,female,White,Not Hispanic or Latino,Marquette,105,FALSE
+148,Berry486 White193,2/13/2007,male,White,Not Hispanic or Latino,Marquette,20,TRUE
+149,Bertie593 Roni48 Padberg411,4/1/1964,female,White,Not Hispanic or Latino,Marquette,87,FALSE
+150,Beth967 Lucienne673 Anderson154,4/5/1966,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,390,FALSE
+151,Bethanie176 Jaskolski867,9/18/1951,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,213,TRUE
+152,Bettina657 Dorinda15 Kutch271,6/24/1959,female,Black or African American,Not Hispanic or Latino,Marquette,54,FALSE
+153,Bill567 Sauer652,10/17/1974,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,34,FALSE
+154,Billie243 Barry322 Kris249,12/31/1963,male,White,Not Hispanic or Latino,Marquette,602,FALSE
+155,Billy698 Zachery872 Wyman904,3/6/1986,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+156,Birgit199 Dorethea38 Beahan375,10/1/2016,female,White,Not Hispanic or Latino,Marquette,23,FALSE
+157,Blake449 Angila948 Zboncak558,3/22/1956,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,72,FALSE
+158,Blondell454 Sherry479 Wunsch504,11/13/2012,female,White,Not Hispanic or Latino,Marquette,28,FALSE
+159,Bo157 Kuvalis369,6/28/1965,male,White,Not Hispanic or Latino,Marquette,12,FALSE
+160,Bobbie849 Sherman440 Larkin917,10/8/1949,male,White,Not Hispanic or Latino,Marquette,55,FALSE
+161,Bobby524 Gabriel934 Terry864,6/29/2007,male,American Indian or Alaska Native,Hispanic or Latino,Marquette,22,FALSE
+162,Bobbye345 Sherrie396 Davis923,11/10/1970,female,White,Not Hispanic or Latino,Marquette,49,FALSE
+163,Bonny428 Alpha246 Howe413,9/14/2017,female,White,Not Hispanic or Latino,Marquette,22,FALSE
+164,Bonny428 Loria303 Boyle917,7/22/1984,female,White,Not Hispanic or Latino,Marquette,59,FALSE
+165,Boris111 Renaldo199 Brown30,12/7/1975,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+166,Bradly656 Douglass930 Lueilwitz711,12/8/1946,male,White,Not Hispanic or Latino,Marquette,562,FALSE
+167,Branden904 Alejandro916 Boyle917,9/27/1974,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+168,Branden904 Jamar151 Kunde533,3/7/1960,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,34,FALSE
+169,Brandi2 Bernadette714 Keeling57,1/5/1997,female,White,Not Hispanic or Latino,Marquette,95,TRUE
+170,Brandon214 Alberto639 Anderson154,12/26/1971,male,White,Not Hispanic or Latino,Marquette,34,TRUE
+171,Brandon214 Lowell343 Farrell962,11/9/1951,male,White,Not Hispanic or Latino,Marquette,102,FALSE
+172,Brant303 Kevin729 Hagenes547,5/31/1961,male,White,Not Hispanic or Latino,Marquette,613,FALSE
+173,Brant303 Russel238 Larson43,8/18/1941,male,White,Not Hispanic or Latino,Marquette,48,FALSE
+174,Brenda158 Joeann663 Gorczany269,9/24/1950,female,White,Not Hispanic or Latino,Marquette,49,FALSE
+175,Brendan864 Barrett790 Miller503,11/25/2012,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+176,Brendon298 Jean712 Ziemann98,8/15/2008,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+177,Brent147 McDermott739,11/28/1951,male,White,Not Hispanic or Latino,Marquette,293,FALSE
+178,Bret7 Allan198 Bahringer146,9/29/1918,male,White,Not Hispanic or Latino,Marquette,56,FALSE
+179,Bret7 Runte676,5/16/1935,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+180,Bret7 Jayson808 Stracke611,8/3/1944,male,White,Not Hispanic or Latino,Marquette,44,FALSE
+181,Brett333 Keeling57,1/29/1981,female,White,Not Hispanic or Latino,Marquette,42,FALSE
+182,Brice635 Jae222 Towne435,10/15/1958,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,31,FALSE
+183,Bridgette172 Olevia458 Muller251,11/12/1959,female,White,Not Hispanic or Latino,Marquette,55,FALSE
+184,Britt177 Stan246 Lakin515,5/10/1992,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,26,FALSE
+185,Brittani427 Trinity427 Medhurst46,8/12/2005,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,88,FALSE
+186,Brittanie254 Jovita355 Hills818,11/21/1972,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+187,Brooks264 Harvey63 Marquardt819,5/24/1981,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+188,Brunilda665 Toy286,7/8/1982,female,White,Not Hispanic or Latino,Marquette,72,FALSE
+189,Bud153 Titus37 Kohler843,6/25/1953,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,48,FALSE
+190,Bud153 Walsh511,12/28/1960,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,297,FALSE
+191,Buddy254 Bernardo699 Reilly981,2/28/1974,male,Other,Not Hispanic or Latino,Marquette,68,FALSE
+192,Burl285 Thurman577 Bogan287,4/10/2015,male,White,Not Hispanic or Latino,Marquette,37,TRUE
+193,Burt293 Deshawn686 Torphy630,5/13/1940,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,101,FALSE
+194,Burton124 Pierre431 Armstrong51,11/28/1969,male,White,Not Hispanic or Latino,Marquette,26,TRUE
+195,Burton124 Quentin28 Corkery305,6/18/1985,male,White,Not Hispanic or Latino,Marquette,12,FALSE
+196,Burton124 Deon400 Miller503,9/1/1962,male,White,Not Hispanic or Latino,Marquette,53,FALSE
+197,Byron202 Francisco472 Herman763,8/14/2019,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+198,Byron202 Oscar384 McClure239,7/7/1983,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,531,FALSE
+199,Calandra120 Alexandria361 Dietrich576,4/20/2001,female,White,Not Hispanic or Latino,Marquette,45,TRUE
+200,Camilla89 Tashia814 Durgan499,5/14/1957,female,White,Not Hispanic or Latino,Marquette,36,FALSE
+201,Candance389 Larue605 Boyer713,12/26/2021,female,White,Not Hispanic or Latino,Marquette,12,FALSE
+202,Candice681 Asuncion264 Boyle917,9/18/1970,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+203,Carey440 Katheryn92 Predovic534,5/20/1942,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+204,Carisa395 Bode78,4/22/2013,female,White,Not Hispanic or Latino,Marquette,33,FALSE
+205,Carl856 Jc393 Leannon79,11/2/1951,male,White,Not Hispanic or Latino,Marquette,103,FALSE
+206,Carla633 Buckridge80,7/26/1957,female,White,Not Hispanic or Latino,Marquette,77,FALSE
+207,Carla633 Candra395 Rippin620,3/19/1957,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+208,Carlie972 Catarina933 Hansen121,2/10/1959,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+209,Carlita746 Eliana466 Ernser583,7/5/1955,female,Black or African American,Not Hispanic or Latino,Marquette,57,FALSE
+210,Carlos172 Desmond566 Crooks415,9/23/1992,male,White,Not Hispanic or Latino,Marquette,13,FALSE
+211,Carlotta746 Margorie48 MacGyver246,3/30/1962,female,White,Not Hispanic or Latino,Marquette,617,FALSE
+212,Carman694 Hettinger594,3/27/1973,female,White,Not Hispanic or Latino,Marquette,33,TRUE
+213,Carmine137 Chase54 Schulist381,10/15/1956,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,46,FALSE
+214,Carmon128 Regan713 Connelly992,10/8/2006,female,White,Not Hispanic or Latino,Marquette,30,FALSE
+215,Carol737 Manual570 Auer97,4/22/2000,male,White,Not Hispanic or Latino,Marquette,12,FALSE
+216,Caroll955 Margeret29 Osinski784,11/24/1967,female,White,Not Hispanic or Latino,Marquette,59,FALSE
+217,Carri827 Myriam433 Fisher429,2/11/2001,female,White,Not Hispanic or Latino,Marquette,42,FALSE
+218,Carrol931 Larkin917,7/6/1970,female,White,Not Hispanic or Latino,Marquette,61,FALSE
+219,Cary869 Kozey370,11/5/1986,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+220,Cassidy160 Maddie576 Hauck852,11/4/1964,female,White,Not Hispanic or Latino,Marquette,45,TRUE
+221,Cassie490 Saran641 Maggio310,7/28/1952,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,89,FALSE
+222,Cathie710 Howell947,9/27/1962,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+223,Cecil300 Gayle448 O'Kon634,2/14/2011,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+224,Cecil300 Breana975 Schoen8,5/19/1998,female,White,Not Hispanic or Latino,Marquette,62,FALSE
+225,Cedric746 Manuel446 Cruickshank494,10/13/1981,male,Other,Not Hispanic or Latino,Marquette,33,FALSE
+226,Cedric746 Denver542 Dickens475,3/8/1950,male,White,Not Hispanic or Latino,Marquette,406,FALSE
+227,Cedrick207 Noe500 Bernier607,8/12/1952,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,46,FALSE
+228,Celina578 Anisa442 Jones311,5/24/1983,female,White,Not Hispanic or Latino,Marquette,59,FALSE
+229,Cesar434 Reggie481 Daniel959,9/29/1918,male,White,Not Hispanic or Latino,Marquette,71,FALSE
+230,Chad48 Bartoletti50,12/26/1946,male,White,Not Hispanic or Latino,Marquette,35,TRUE
+231,Chad48 Lemke654,11/5/1961,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,64,FALSE
+232,Chadwick722 Graham902,11/1/2024,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,3,FALSE
+233,Chan58 Sharlene906 Hilpert278,8/7/1950,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+234,Chance908 Chi716 Grady603,1/13/1941,male,White,Not Hispanic or Latino,Marquette,64,FALSE
+235,Chanel977 Ila598 Goldner995,1/22/1944,female,White,Not Hispanic or Latino,Marquette,68,FALSE
+236,Chanelle850 Lashawnda573 Kshlerin58,11/25/1927,female,White,Not Hispanic or Latino,Marquette,313,FALSE
+237,Chang901 Twanda979 Rempel203,7/1/2009,female,White,Not Hispanic or Latino,Marquette,30,FALSE
+238,Charla27 Louanne686 Flatley871,12/2/1963,female,White,Not Hispanic or Latino,Marquette,81,FALSE
+239,Charlena802 Kenda873 Ratke343,3/9/1972,female,White,Not Hispanic or Latino,Marquette,53,FALSE
+240,Charles364 Long300 Johns824,5/14/1950,male,Black or African American,Not Hispanic or Latino,Marquette,473,FALSE
+241,Charles364 Sanford861,11/26/1992,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+242,Charley358 Adam631 Goodwin327,12/31/1971,male,White,Not Hispanic or Latino,Marquette,25,FALSE
+243,Charlie254 Ismael683 Halvorson124,11/28/1952,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,57,FALSE
+244,Charlott617 Lindy582 Cronin387,12/17/1995,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+245,Charlsie105 Tanesha560 Casper496,6/21/1942,female,White,Not Hispanic or Latino,Marquette,159,FALSE
+246,Chas63 Smitham825,2/23/2003,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+247,Chase54 Jackson413 Rice937,9/16/1959,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+248,Chau65 Kirstie385 Ebert178,1/19/2001,female,White,Not Hispanic or Latino,Marquette,37,TRUE
+249,Chauncey770 Leopoldo762 Klein929,8/19/1966,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+250,Chauncey770 Olson653,12/31/1963,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+251,Cherlyn665 Nyla424 Yost751,5/6/1949,female,White,Not Hispanic or Latino,Marquette,341,FALSE
+252,Chester802 Leannon79,8/1/1948,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+253,Chester802 Augustus49 Prosacco716,11/9/1976,male,White,Not Hispanic or Latino,Marquette,23,FALSE
+254,Cheyenne169 Nannette779 Brekke496,1/6/1995,female,White,Not Hispanic or Latino,Marquette,74,FALSE
+255,Chloe501 Norma469 Stanton715,5/22/1958,female,White,Not Hispanic or Latino,Marquette,474,FALSE
+256,Christie481 Rana586 Corwin846,9/14/2003,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+257,Christin490 Ruthe70 Stamm704,4/29/1974,female,White,Not Hispanic or Latino,Marquette,60,FALSE
+258,Christine147 Margarete324 Witting912,7/28/1952,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,72,FALSE
+259,Chuck784 Reynolds644,12/30/2014,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+260,Chung121 Hassan290 Lakin515,6/1/1954,male,White,Not Hispanic or Latino,Marquette,140,FALSE
+261,Chung121 Newton741 Lynch190,4/22/1984,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+262,Clair921 Little434,2/20/1954,female,White,Not Hispanic or Latino,Marquette,46,TRUE
+263,Clair921 Ozzie259 Zulauf375,2/12/1927,male,White,Not Hispanic or Latino,Marquette,96,FALSE
+264,Claire652 Kaitlin600 Gulgowski816,8/5/1956,female,White,Not Hispanic or Latino,Marquette,30,FALSE
+265,Clarence5 Considine820,8/5/1958,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+266,Clarence5 Roy364 Franecki195,11/13/1945,male,White,Not Hispanic or Latino,Marquette,70,FALSE
+267,Clarence5 Merrill415 Littel644,7/25/1993,male,White,Not Hispanic or Latino,Marquette,60,FALSE
+268,Claud279 Michael441 Metz686,9/29/1959,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+269,Claude750 Pasquale620 Marks830,5/1/1950,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+270,Claudio955 Bret7 Swaniawski813,4/1/2015,male,White,Not Hispanic or Latino,Marquette,28,TRUE
+271,Clay913 Broderick767 Cassin499,2/2/1997,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+272,Clay913 Jacobson885,10/12/1958,male,White,Not Hispanic or Latino,Marquette,127,FALSE
+273,Clay913 Manual570 Yost751,2/28/1970,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+274,Clayton230 Brandon214 Dooley940,8/31/1962,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+275,Clayton230 Gustavo235 Hauck852,1/24/1945,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,75,FALSE
+276,Clement78 Jae222 Ernser583,8/18/1994,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+277,Cleo27 Jc393 Sawayn19,5/7/1962,male,White,Not Hispanic or Latino,Marquette,13,FALSE
+278,Cletus494 Elliott563 Runolfsson901,8/29/1977,male,White,Not Hispanic or Latino,Marquette,17,TRUE
+279,Cleveland582 Shannon293 Altenwerth646,7/31/1973,male,White,Not Hispanic or Latino,Marquette,23,FALSE
+280,Cleveland582 Dicki44,5/10/1956,male,White,Not Hispanic or Latino,Marquette,31,TRUE
+281,Cleveland582 Otha286 Pfannerstill264,1/6/1964,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+282,Clifford177 Lakin515,5/27/1925,male,White,Not Hispanic or Latino,Marquette,597,FALSE
+283,Clint766 Millard193 Marquardt819,2/10/1929,male,White,Not Hispanic or Latino,Marquette,50,FALSE
+284,Clora637 Margy712 Halvorson124,9/30/1953,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+285,Clyde817 German382 Robel940,10/23/1946,male,White,Not Hispanic or Latino,Marquette,49,FALSE
+286,Cody889 Collins926,2/1/1966,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+287,Cody889 Barry322 Senger904,1/29/1949,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+288,Coleman27 Robert854 Bednar518,1/15/1949,male,White,Not Hispanic or Latino,Marquette,100,FALSE
+289,Colin861 Kirk871 Langosh790,4/25/1959,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+290,Colin861 Ambrose149 Ullrich385,12/8/1946,male,White,Not Hispanic or Latino,Marquette,53,FALSE
+291,Collene784 Hye44 Daugherty69,5/22/1958,female,White,Not Hispanic or Latino,Marquette,116,FALSE
+292,Colton403 Doyle959,11/26/1992,male,White,Not Hispanic or Latino,Marquette,11,TRUE
+293,Colton403 Gislason620,11/23/1958,male,White,Not Hispanic or Latino,Marquette,79,FALSE
+294,Columbus656 Kevin729 Ruecker817,12/10/1997,male,Other,Not Hispanic or Latino,Marquette,7,FALSE
+295,Conception120 Alica364 Gleason633,3/29/2022,female,White,Not Hispanic or Latino,Marquette,14,FALSE
+296,Concetta811 Aundrea980 Greenfelder433,9/21/2009,female,White,Not Hispanic or Latino,Marquette,23,FALSE
+297,Conrad619 Wiley422 Abbott774,10/1/1962,male,White,Not Hispanic or Latino,Marquette,91,FALSE
+298,Constance642 Bashirian201,6/10/1979,female,White,Not Hispanic or Latino,Marquette,101,FALSE
+299,Cora299 Maricela194 Jerde200,3/11/1946,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,65,FALSE
+300,Coralee911 Elinor7 Bruen238,5/11/1976,female,White,Not Hispanic or Latino,Marquette,74,FALSE
+301,Cordell41 Kshlerin58,12/30/1980,male,White,Hispanic or Latino,Marquette,13,FALSE
+302,Cordia574 Sunday568 Braun514,9/2/1956,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+303,Cortez851 Hyman89 Murray856,12/26/2018,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+304,Cristina921 Kuphal363,4/30/1985,female,White,Not Hispanic or Latino,Marquette,43,FALSE
+305,Cristobal567 Negrete68,9/26/1949,male,Black or African American,Not Hispanic or Latino,Marquette,50,TRUE
+306,Cruz300 Gus973 Bradtke547,11/7/1965,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+307,Curt84 Reynaldo722 Raynor401,10/18/1960,male,White,Not Hispanic or Latino,Marquette,55,TRUE
+308,Curt84 Welch179,3/20/1964,male,White,Not Hispanic or Latino,Marquette,101,FALSE
+309,Cyril535 Issac619 Breitenberg711,1/15/1966,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+310,Cyrus914 Ryan260,12/24/1972,male,White,Not Hispanic or Latino,Marquette,49,FALSE
+311,Dagny669 Rice937,6/15/2006,female,White,Not Hispanic or Latino,Marquette,56,FALSE
+312,Dale454 Dominque770 Wisoky380,12/3/1950,female,White,Not Hispanic or Latino,Marquette,68,FALSE
+313,Dale454 Elbert916 Lehner980,4/9/1981,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+314,Damaris45 Lorina403 Skiles927,12/28/2012,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,21,FALSE
+315,Damian46 Sid118 Cole117,6/23/2016,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+316,Damien170 Isiah14 Legros616,7/7/1960,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+317,Damien170 Clair921 Spinka232,3/14/1980,male,Other,Not Hispanic or Latino,Marquette,22,FALSE
+318,Damion480 Felton646 Roob72,4/12/1958,male,White,Not Hispanic or Latino,Marquette,53,TRUE
+319,Dan465 Kendall673 Baumbach677,11/3/1960,female,White,Not Hispanic or Latino,Marquette,75,FALSE
+320,Daniel959 Boehm581,11/7/2005,male,American Indian or Alaska Native,Hispanic or Latino,Marquette,24,FALSE
+321,Daniel959 Joey457 Hills818,1/3/1963,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,135,FALSE
+322,Daniele610 Jenee387 Considine820,12/13/1963,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+323,Danika134 Wunsch504,7/7/1973,female,White,Not Hispanic or Latino,Marquette,67,FALSE
+324,Danny396 Philip822 Cole117,6/9/1983,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,30,TRUE
+325,Danny396 Chris95 Stracke611,1/30/1976,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,29,TRUE
+326,Dante562 Lance203 Collier206,4/25/1975,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+327,Darcel357 Goyette777,2/6/1989,female,White,Not Hispanic or Latino,Marquette,66,FALSE
+328,Darell496 Jimmie93 Prosacco716,10/31/1954,male,White,Not Hispanic or Latino,Marquette,225,FALSE
+329,Darin74 Christian753 Heidenreich818,3/20/2010,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+330,Dario75 Greenfelder433,11/26/1945,male,White,Not Hispanic or Latino,Marquette,54,FALSE
+331,Darlene91 Emmie273 Koch169,11/21/1960,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,763,FALSE
+332,Darrell400 Everette494 VonRueden376,2/22/2002,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,18,FALSE
+333,Darren774 Bailey598,5/14/1999,male,White,Not Hispanic or Latino,Marquette,57,FALSE
+334,Darrick836 Emilio417 Hegmann834,6/15/1969,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,75,FALSE
+335,Darrick836 Schuppe920,6/25/1959,male,Asian,Not Hispanic or Latino,Marquette,53,FALSE
+336,Darrin898 Lowe577,3/2/1941,male,White,Not Hispanic or Latino,Marquette,372,FALSE
+337,Darwin703 Federico589 Moore224,12/18/1918,male,White,Not Hispanic or Latino,Marquette,404,FALSE
+338,Daryl568 Cruz300 Dicki44,9/28/2006,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+339,Daryl568 Okuneva707,9/29/1918,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+340,Daryl568 Parisian75,1/19/1958,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+341,Dave764 Ivory697 Mueller846,1/15/1966,male,White,Not Hispanic or Latino,Marquette,47,FALSE
+342,Dave764 Derrick232 Schowalter414,3/20/1963,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+343,David908 Oquendo599,9/26/1949,male,Black or African American,Not Hispanic or Latino,Marquette,119,FALSE
+344,Davina555 Angla303 Rutherford999,3/20/1991,female,White,Not Hispanic or Latino,Marquette,67,FALSE
+345,Dawna21 Barbara209 Schimmel440,1/30/1966,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,30,FALSE
+346,Dayle885 Devon268 Gleichner915,12/6/1962,female,White,Not Hispanic or Latino,Marquette,45,FALSE
+347,Deandrea896 Bradtke547,1/27/1964,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+348,Deb577 Leia529 Pfeffer420,5/13/1948,female,White,Not Hispanic or Latino,Marquette,45,FALSE
+349,Debby656 Doloris378 Connelly992,3/8/2015,female,White,Not Hispanic or Latino,Marquette,23,FALSE
+350,Dedra50 Tesha491 Nienow652,8/6/1971,female,White,Not Hispanic or Latino,Marquette,43,FALSE
+351,Dee580 Jerrell6 Hartmann983,7/23/1960,male,White,Not Hispanic or Latino,Marquette,66,FALSE
+352,Deeanna316 Octavia629 Glover433,9/5/1997,female,White,Not Hispanic or Latino,Marquette,59,TRUE
+353,Deedee112 Graciela518 Anderson154,3/13/1985,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+354,Deedee112 Madelyn308 Leannon79,3/24/1976,female,Other,Not Hispanic or Latino,Marquette,42,TRUE
+355,Deedra511 Kanisha187 Cassin499,2/13/1952,female,White,Not Hispanic or Latino,Marquette,113,TRUE
+356,Deirdre267 Schiller186,10/14/1967,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+357,Del587 Sammy219 Blanda868,9/16/1995,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,35,FALSE
+358,Del587 Santos184 Toy286,8/20/1969,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,34,FALSE
+359,Delbert384 Rath779,7/23/1971,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,24,FALSE
+360,Delmar187 Kyle55 Witting912,5/27/1997,male,Black or African American,Not Hispanic or Latino,Marquette,18,FALSE
+361,Delpha270 Onie555 Gislason620,12/4/1969,female,White,Not Hispanic or Latino,Marquette,42,FALSE
+362,Demarcus108 Victor265 Schulist381,9/17/1978,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+363,Demetrius568 Rory188 Rowe323,1/5/1962,male,White,Not Hispanic or Latino,Marquette,157,FALSE
+364,Dena356 Bianca274 Stroman228,10/16/1954,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+365,Dena356 Eunice461 Hahn503,9/14/1959,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+366,Denis399 Goldner995,9/26/2010,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+367,Denny560 Bergstrom287,10/12/2013,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+368,Denver542 Ricardo560 Schmitt836,7/22/1995,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+369,Deon400 Sonny285 Skiles927,4/26/2023,male,White,Not Hispanic or Latino,Marquette,8,FALSE
+370,Derek111 Luciano237 Haag279,3/27/1960,male,White,Not Hispanic or Latino,Marquette,72,FALSE
+371,Derrick232 Phil587 Lemke654,4/21/1966,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+372,Deshawn686 Randal152 Powlowski563,7/3/1940,male,White,Not Hispanic or Latino,Marquette,62,FALSE
+373,Deshawn686 Britt177 Quitzon246,5/12/1954,male,White,Not Hispanic or Latino,Marquette,102,FALSE
+374,Desirae249 Kesha802 Jast432,3/11/1961,female,White,Not Hispanic or Latino,Marquette,43,FALSE
+375,Devin82 Jewell855 Hickle134,9/16/1959,male,White,Not Hispanic or Latino,Marquette,78,FALSE
+376,Dewayne363 Bernier607,7/8/1954,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,47,FALSE
+377,Dewey930 Heidenreich818,9/20/1966,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+378,Dexter530 Douglas31,1/12/1930,male,White,Not Hispanic or Latino,Marquette,458,FALSE
+379,Dick869 Stan246 Sanford861,5/22/1972,male,White,Not Hispanic or Latino,Marquette,139,FALSE
+380,Diedra595 Tabatha105 Zboncak558,4/29/1962,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+381,Diego848 Kenton313 Klocko335,5/8/1967,male,White,Not Hispanic or Latino,Marquette,95,FALSE
+382,Digna973 Brigid753 Mann644,4/30/1943,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+383,Dillon740 Adalberto916 Grady603,6/11/1990,male,White,Not Hispanic or Latino,Marquette,81,FALSE
+384,Dillon740 Johnny786 Roberts511,2/1/2010,male,White,Not Hispanic or Latino,Marquette,20,TRUE
+385,Dillon740 Kasey569 VonRueden376,9/19/1960,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+386,Dina200 Velva240 Hodkiewicz467,9/15/1990,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+387,Dino214 Arnold338 Flatley871,5/31/1945,male,White,Not Hispanic or Latino,Marquette,53,FALSE
+388,Dion244 Greg949 Rau926,6/30/1947,male,White,Not Hispanic or Latino,Marquette,44,FALSE
+389,Dirk334 Fay398,3/19/1974,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+390,Dolly486 Bins636,11/3/1941,female,White,Not Hispanic or Latino,Marquette,281,FALSE
+391,Domenic627 Coy949 Reilly981,3/18/1967,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,576,FALSE
+392,Domenic627 Zulauf375,8/1/1948,male,White,Not Hispanic or Latino,Marquette,71,FALSE
+393,Dona966 Bunny174 Rempel203,5/12/1948,female,Other,Not Hispanic or Latino,Marquette,41,FALSE
+394,Donald774 Ignacio928 Kilback373,2/14/2001,male,White,Not Hispanic or Latino,Marquette,11,FALSE
+395,Donn979 Myles862 Sanford861,5/31/1945,male,White,Not Hispanic or Latino,Marquette,302,FALSE
+396,Donnell534 Everette494 Pfeffer420,4/29/1971,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+397,Donnie175 Wm806 Koelpin146,5/27/1925,male,White,Not Hispanic or Latino,Marquette,589,FALSE
+398,Donny470 Kyle55 Abbott774,5/8/1953,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,542,FALSE
+399,Donny470 Dominique369 Cronin387,5/12/1995,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+400,Donny470 Edgardo196 Tromp100,12/8/1941,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,47,FALSE
+401,Donte636 Kunde533,11/13/1955,male,White,Not Hispanic or Latino,Marquette,29,TRUE
+402,Doretha289 Berenice603 Sanford861,7/4/1981,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,39,FALSE
+403,Dorian295 Amado512 Littel644,6/28/2021,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+404,Dorie139 Shenita872 Wilderman619,12/15/1977,female,White,Not Hispanic or Latino,Marquette,100,FALSE
+405,Dorinda15 Terra840 Lebsack687,3/23/1952,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+406,Dorsey40 Jefferson174 Grady603,3/4/1947,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+407,Dorsey40 Johnathan55 Ritchie586,6/30/1979,male,White,Not Hispanic or Latino,Marquette,82,FALSE
+408,Dorthea49 Timothy142 Welch179,9/11/2019,female,White,Not Hispanic or Latino,Marquette,19,FALSE
+409,Doug189 Jc393 Deckow585,7/22/1953,male,White,Not Hispanic or Latino,Marquette,44,FALSE
+410,Doug189 Roy364 Dietrich576,11/26/1992,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+411,Doug189 Roosevelt595 Pfannerstill264,9/29/1977,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+412,Dovie983 Alberta625 Emard19,3/30/1959,female,White,Not Hispanic or Latino,Marquette,89,FALSE
+413,Duane703 Tony646 Boyle917,2/28/1974,male,Other,Not Hispanic or Latino,Marquette,47,FALSE
+414,Duane703 Raymundo71 Mills423,1/23/1943,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,54,FALSE
+415,Dusti191 Kristine579 Ernser583,11/17/1950,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,101,FALSE
+416,Dusty207 Bednar518,4/26/1955,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+417,Dwight645 Roscoe437 Barton704,6/12/1980,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+418,Dwight645 Evan94 Cremin516,4/7/1968,male,White,Not Hispanic or Latino,Marquette,100,FALSE
+419,Dwight645 Juan88 O'Connell601,11/24/1957,male,White,Not Hispanic or Latino,Marquette,47,FALSE
+420,Dylan44 Keneth579 Weissnat378,4/11/1974,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+421,Earnest658 Blick895,3/26/1981,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,33,FALSE
+422,Ed239 Carlos172 Blanda868,8/17/1989,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+423,Eddie505 Michael441 Anderson154,4/25/1955,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+424,Eddy900 Franklin857 Gutkowski940,2/5/1964,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,699,FALSE
+425,Edgar153 Chad48 Quigley282,2/15/1966,male,White,Not Hispanic or Latino,Marquette,98,FALSE
+426,Edgar153 Rudolph554 Walker122,8/2/2020,male,White,Not Hispanic or Latino,Marquette,23,FALSE
+427,Edgardo196 Ebert178,5/12/1994,male,White,Not Hispanic or Latino,Marquette,64,FALSE
+428,Edmond919 Benito209 Langworth352,8/25/1986,male,White,Not Hispanic or Latino,Marquette,17,TRUE
+429,Edmundo94 Wiley422 Lowe577,5/20/1951,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+430,Edris973 Ivey393 Brekke496,11/17/1950,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,505,FALSE
+431,Edris973 Samara159 Kihn564,11/3/1980,female,White,Not Hispanic or Latino,Marquette,51,FALSE
+432,Edward499 Reid278 Bashirian201,5/26/1963,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+433,Edward499 Beau391 Carroll471,11/16/1946,male,White,Not Hispanic or Latino,Marquette,390,FALSE
+434,Edwardo860 Jamar151 Ratke343,11/24/1972,male,White,Not Hispanic or Latino,Marquette,68,TRUE
+435,Efrain317 Bob965 Schmeler639,10/28/1953,male,White,Not Hispanic or Latino,Marquette,59,FALSE
+436,Efren426 Shelby741 Breitenberg711,9/16/1959,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+437,Elana101 Pattie91 Hintz995,11/26/1956,female,White,Not Hispanic or Latino,Marquette,30,FALSE
+438,Elanor679 Miki234 Hahn503,7/5/1955,female,Black or African American,Not Hispanic or Latino,Marquette,52,TRUE
+439,Elda564 Mirtha993 Ziemann98,6/28/1955,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+440,Elden718 Jonathan639 Barton704,12/7/2018,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+441,Eldora89 Mellisa81 Osinski784,8/31/2003,female,Other,Not Hispanic or Latino,Marquette,34,FALSE
+442,Elfreda431 Meri607 Hane680,12/24/1968,female,Other,Not Hispanic or Latino,Marquette,431,FALSE
+443,Elias404 Sal878 Russel238,8/31/1928,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+444,Elida479 Erline657 Sauer652,2/14/1961,female,White,Not Hispanic or Latino,Marquette,36,FALSE
+445,Elidia194 Casie505 Mohr916,9/27/2011,female,White,Not Hispanic or Latino,Marquette,16,FALSE
+446,Elinor7 Stiedemann542,4/13/1963,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,48,FALSE
+447,Eliz744 Jodee687 Swift555,9/22/2015,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+448,Elizabet136 Samira471 Farrell962,11/8/1975,female,White,Not Hispanic or Latino,Marquette,189,FALSE
+449,Elizebeth108 Elana101 Braun514,8/18/2001,female,White,Not Hispanic or Latino,Marquette,23,FALSE
+450,Elli820 Louie190 Friesen796,3/10/1976,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+451,Elliot577 Phillip440 Padberg411,9/23/1957,male,Other,Not Hispanic or Latino,Marquette,32,FALSE
+452,Elliot577 Allen322 Wiegand701,5/14/1962,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,32,FALSE
+453,Elliott563 Carroll471,9/29/1918,male,White,Not Hispanic or Latino,Marquette,98,FALSE
+454,Ellis535 Brain142 Murazik203,12/21/2022,male,White,Not Hispanic or Latino,Marquette,11,FALSE
+455,Ellsworth48 Lanny564 O'Keefe54,6/7/1965,male,Asian,Not Hispanic or Latino,Marquette,33,FALSE
+456,Ellyn26 Karin721 Feest103,8/10/2015,female,Asian,Not Hispanic or Latino,Marquette,28,FALSE
+457,Elmira442 Pasty639 Barton704,7/9/1977,female,White,Not Hispanic or Latino,Marquette,96,FALSE
+458,Elmo857 Isaiah615 Wilkinson796,7/11/1963,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,74,FALSE
+459,Eloy929 Rocco842 Abbott774,8/1/1948,male,White,Not Hispanic or Latino,Marquette,92,FALSE
+460,Elroy493 Eugene421 Howe413,9/29/1918,male,White,Not Hispanic or Latino,Marquette,511,FALSE
+461,Elton404 Hudson301,7/4/1991,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+462,Elton404 Eliseo499 Klocko335,3/27/1970,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+463,Elvin140 Dorian295 Dietrich576,8/23/1976,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,33,FALSE
+464,Elwanda490 Parker433,8/4/1970,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+465,Emiko501 Elaina826 Braun514,8/29/2012,female,White,Not Hispanic or Latino,Marquette,26,FALSE
+466,Emiko501 Maira380 Greenholt190,1/26/2014,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,22,FALSE
+467,Emil691 King743,4/29/1962,male,White,Not Hispanic or Latino,Marquette,38,TRUE
+468,Emilia403 Ginette140 Abbott774,7/18/2022,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,12,FALSE
+469,Emilia403 Abshire638,6/14/2006,female,White,Not Hispanic or Latino,Marquette,94,FALSE
+470,Emilie407 Weimann465,4/20/1968,female,White,Not Hispanic or Latino,Marquette,66,FALSE
+471,Emilio417 Gustavo235 Escamilla823,6/16/2007,male,White,Hispanic or Latino,Marquette,28,FALSE
+472,Emilio417 Rosendo998 Volkman526,12/13/1947,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+473,Emmanuel930 Julius90 Maggio310,4/24/1996,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+474,Emmitt44 Willard975 Green467,8/9/1951,male,White,Not Hispanic or Latino,Marquette,225,FALSE
+475,Enrique929 Jon665 Hodkiewicz467,7/8/2009,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+476,Enrique929 Jerry654 Ward668,3/7/2023,male,White,Not Hispanic or Latino,Marquette,10,FALSE
+477,Enriqueta274 Micah422 Reichert620,8/6/1963,female,White,Not Hispanic or Latino,Marquette,33,TRUE
+478,Eric487 Leffler128,3/16/1988,male,White,Not Hispanic or Latino,Marquette,104,FALSE
+479,Erica194 Arletta663 Dibbert990,7/18/1950,female,White,Not Hispanic or Latino,Marquette,70,TRUE
+480,Erick204 Ross213 Raynor401,11/3/1961,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+481,Erick204 Adam631 Russel238,6/9/2013,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+482,Erika442 Gerald181 Jerde200,1/4/1988,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,43,FALSE
+483,Erin498 Lawerence6 Lynch190,2/23/1961,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+484,Ernesto186 Mann644,2/9/1961,male,White,Not Hispanic or Latino,Marquette,246,FALSE
+485,Errol226 Zachery872 Labadie908,8/28/1997,male,White,Not Hispanic or Latino,Marquette,10,FALSE
+486,Errol226 Milan77 Yost751,9/3/1979,male,White,Not Hispanic or Latino,Marquette,53,FALSE
+487,Ethan766 Isidro558 Mraz590,4/28/1971,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+488,Ethel888 Kirby843 Daugherty69,4/21/1991,female,White,Not Hispanic or Latino,Marquette,54,FALSE
+489,Ethelyn789 Pfeffer420,1/11/1975,female,White,Not Hispanic or Latino,Marquette,20,FALSE
+490,Eugene421 Debroah867 Weber641,10/27/1951,female,Other,Not Hispanic or Latino,Marquette,82,FALSE
+491,Eula461 Magnolia736 Jacobson885,11/6/2020,female,White,Not Hispanic or Latino,Marquette,16,FALSE
+492,Eun46 Francie486 Kub800,10/6/1945,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,589,FALSE
+493,Evelina828 Jakubowski832,6/24/1970,female,Black or African American,Not Hispanic or Latino,Marquette,53,FALSE
+494,Everette494 Robin66 Conroy74,11/5/2018,male,White,Not Hispanic or Latino,Marquette,23,FALSE
+495,Evie333 Eddie505 Bednar518,5/12/1989,female,White,Not Hispanic or Latino,Marquette,72,FALSE
+496,Ezekiel373 Burl285 Streich926,8/2/1973,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+497,Ezra452 Moen819,10/17/1961,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,670,FALSE
+498,Fabian647 Alec433 Bechtelar572,6/23/2016,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+499,Fabian647 Hermiston71,10/2/1972,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+500,Fabian647 Juan88 Jaskolski867,11/28/1952,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,33,TRUE
+501,Faustino767 Leonardo412 Emard19,10/25/1976,male,White,Not Hispanic or Latino,Marquette,52,FALSE
+502,Faviola526 Suzanne628 Cummerata161,6/25/1973,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+503,Fay398 Kandis954 Raynor401,7/13/1962,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,30,FALSE
+504,Fay398 Maximina916 Mills423,1/20/2024,female,White,Not Hispanic or Latino,Marquette,6,FALSE
+505,Felicidad691 Gisela897 Becker968,12/29/1970,female,White,Not Hispanic or Latino,Marquette,23,FALSE
+506,Felipa93 Nannie905 Pouros728,12/16/1968,female,Black or African American,Not Hispanic or Latino,Marquette,65,FALSE
+507,Felipa93 Nevada145 Kunde533,7/9/1946,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,95,FALSE
+508,Felipe97 Alexander630 Hintz995,3/2/1941,male,White,Not Hispanic or Latino,Marquette,81,FALSE
+509,Fernande593 Vera718 Kozey370,2/16/1959,female,White,Not Hispanic or Latino,Marquette,453,FALSE
+510,Fernando603 Rosendo998 Brakus656,3/5/1961,male,Black or African American,Not Hispanic or Latino,Marquette,26,FALSE
+511,Fletcher87 Emerson869 Kulas532,1/10/1954,male,White,Not Hispanic or Latino,Marquette,61,FALSE
+512,Florence828 Elma843 Stamm704,10/30/1969,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+513,Florencio463 Don899 Bergstrom287,11/13/1990,male,White,Not Hispanic or Latino,Marquette,13,FALSE
+514,Florencio463 Dewayne363 Monahan736,9/29/1918,male,White,Not Hispanic or Latino,Marquette,481,FALSE
+515,Florentino8 Graham902,6/8/1967,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+516,Florrie453 Antonina346 Bosco882,9/10/1960,female,White,Not Hispanic or Latino,Marquette,33,FALSE
+517,Flossie205 Martine382 Denesik803,11/27/1981,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,45,FALSE
+518,Floyd420 Dusty207 Corkery305,6/6/2015,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+519,Francesco636 Shad704 Gibson10,1/25/2000,male,White,Not Hispanic or Latino,Marquette,68,FALSE
+520,Francesco636 Roob72,7/12/2001,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+521,Fred155 Eliseo499 Hoeger474,3/13/2012,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+522,Fred155 Von197 Kihn564,9/29/1959,male,White,Not Hispanic or Latino,Marquette,43,FALSE
+523,Fred155 Reatha769 Morissette863,3/7/1947,female,Black or African American,Not Hispanic or Latino,Marquette,34,FALSE
+524,Fredda152 Treena759 Kunde533,2/5/1990,female,White,Not Hispanic or Latino,Marquette,63,FALSE
+525,Freddie621 Scot349 Adams676,12/6/2005,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+526,Freddy176 Clair921 Rodriguez71,11/6/1970,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+527,Frederic454 Mitch821 Bergnaum523,2/21/1942,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,59,FALSE
+528,Fredericka800 Cordie578 Bartell116,2/24/1992,female,White,Not Hispanic or Latino,Marquette,54,FALSE
+529,Fredric73 Randal152 Ankunding277,8/25/1996,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+530,Fredric73 Tom274 Cormier289,12/30/1952,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+531,Fredrick998 Leonard963 Harris789,4/5/1985,male,White,Not Hispanic or Latino,Marquette,56,FALSE
+532,Fritz267 Rickie717 Gutkowski940,9/27/1965,male,White,Not Hispanic or Latino,Marquette,154,FALSE
+533,Gail741 Effertz744,6/17/1979,male,Asian,Not Hispanic or Latino,Marquette,31,FALSE
+534,Gail741 Erinn548 Nikolaus26,12/16/1954,female,White,Not Hispanic or Latino,Marquette,33,FALSE
+535,Gail741 Schoen8,1/26/1959,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+536,Gale827 Marianne327 Schroeder447,12/24/1968,female,Other,Not Hispanic or Latino,Marquette,32,FALSE
+537,Galen747 Werner409 Gorczany269,12/18/1918,male,White,Not Hispanic or Latino,Marquette,75,FALSE
+538,Garnet389 Gladis186 Morar593,10/25/1981,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+539,Gaston250 Ernie189 Douglas31,12/3/1997,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+540,Gaston250 Sandy901 Howe413,1/30/1983,male,White,Not Hispanic or Latino,Marquette,55,FALSE
+541,Gay359 Gottlieb798,3/6/1957,female,White,Not Hispanic or Latino,Marquette,146,FALSE
+542,Gayle448 Scott935 Welch179,12/22/1958,male,White,Not Hispanic or Latino,Marquette,30,TRUE
+543,Gemma107 Koch169,3/19/1956,female,White,Not Hispanic or Latino,Marquette,124,FALSE
+544,Gena729 Nikole56 Schuppe920,9/13/1974,female,White,Not Hispanic or Latino,Marquette,51,FALSE
+545,Genna99 Roxanna261 Murazik203,10/24/2017,female,White,Not Hispanic or Latino,Marquette,22,FALSE
+546,Gennie418 Marilee479 Grimes165,4/5/1954,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,62,FALSE
+547,Genny123 Zemlak964,11/23/1959,female,White,Not Hispanic or Latino,Marquette,605,FALSE
+548,Gerard367 Leslie90 Runolfsson901,8/17/2008,male,White,Not Hispanic or Latino,Marquette,76,FALSE
+549,German382 Luis923 Bartoletti50,5/17/1940,male,White,Not Hispanic or Latino,Marquette,107,FALSE
+550,Gilberto712 Chauncey770 Pacocha935,2/12/1927,male,White,Not Hispanic or Latino,Marquette,69,FALSE
+551,Glen190 Leopoldo762 Hammes673,1/12/1930,male,White,Not Hispanic or Latino,Marquette,107,FALSE
+552,Glen190 Carmelo33 Zemlak964,8/20/1946,male,White,Not Hispanic or Latino,Marquette,51,FALSE
+553,Glendora96 Crystle668 Mohr916,5/26/1970,female,White,Not Hispanic or Latino,Marquette,51,FALSE
+554,Glenn0 Ledner144,10/24/1982,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+555,Glenn0 Markus389 Mueller846,11/16/1946,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+556,Glennie916 Marvin195,5/20/1942,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+557,Gloria696 Charline650 Breitenberg711,7/17/1966,female,White,Not Hispanic or Latino,Marquette,143,FALSE
+558,Glory745 Edythe31 Cremin516,2/16/1977,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+559,Goldie436 Danyel335 Lebsack687,6/22/2012,female,White,Not Hispanic or Latino,Marquette,16,FALSE
+560,Gonzalo160 Emmerich580,3/18/1967,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,31,FALSE
+561,Grace552 Denise470 Bartell116,12/17/1995,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,13,FALSE
+562,Gracia333 Ayana300 Jaskolski867,12/19/1969,female,White,Not Hispanic or Latino,Marquette,67,FALSE
+563,Grant908 Fernando603 Kerluke267,10/24/2003,male,Black or African American,Not Hispanic or Latino,Marquette,16,TRUE
+564,Grant908 Kreiger457,6/16/1960,male,White,Not Hispanic or Latino,Marquette,57,FALSE
+565,Granville802 Elden718 Wunsch504,11/26/1981,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+566,Greg949 Zachery872 Quitzon246,11/11/2007,male,White,Hispanic or Latino,Marquette,22,TRUE
+567,Gregg522 Owen89 Ruecker817,1/28/1978,male,White,Not Hispanic or Latino,Marquette,23,FALSE
+568,Gregorio366 Elden718 Hermann103,4/28/1945,male,White,Not Hispanic or Latino,Marquette,62,FALSE
+569,Gregorio366 Jamey282 Satterfield305,6/28/1965,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+570,Guillermo498 Bosco882,9/11/1947,male,White,Not Hispanic or Latino,Marquette,572,FALSE
+571,Guillermo498 Brenton674 Pacocha935,5/16/1953,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,121,FALSE
+572,Guy979 Brandon214 Fritsch593,12/27/1965,male,White,Not Hispanic or Latino,Marquette,51,FALSE
+573,Gwendolyn93 Providencia986 Beer512,5/17/1980,female,White,Not Hispanic or Latino,Marquette,89,FALSE
+574,Ha329 Lana840 Corkery305,3/20/1954,female,White,Hispanic or Latino,Marquette,37,FALSE
+575,Hai304 Carey440 Kozey370,8/31/1928,male,White,Not Hispanic or Latino,Marquette,104,FALSE
+576,Hans694 Son314 Hessel84,1/14/1993,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+577,Harland508 Joshua658 Moore224,2/28/1974,male,Other,Not Hispanic or Latino,Marquette,50,FALSE
+578,Harley673 Bins636,6/19/2011,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,30,TRUE
+579,Harold594 Israel728 Ferry570,2/26/1975,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+580,Harrison106 Manual570 McLaughlin530,10/13/1981,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+581,Haywood675 Murray856 Mueller846,1/6/1964,male,White,Not Hispanic or Latino,Marquette,54,FALSE
+582,Heath320 Jerold208 Reichel38,6/5/1976,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+583,Hedy234 Katharyn928 Ebert178,8/24/2015,female,White,Not Hispanic or Latino,Marquette,51,FALSE
+584,Heide509 Candra395 Jenkins714,1/29/2010,female,White,Not Hispanic or Latino,Marquette,55,FALSE
+585,Heidy529 Christiane220 Schumm995,6/28/1975,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+586,Helga481 Tish18 Kulas532,6/24/1959,female,Black or African American,Not Hispanic or Latino,Marquette,40,FALSE
+587,Herman763 Nader710,4/30/2011,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+588,Hermelinda327 Melody728 Klein929,4/22/1974,female,White,Not Hispanic or Latino,Marquette,18,FALSE
+589,Herminia75 Champlin946,5/14/1950,female,White,Not Hispanic or Latino,Marquette,52,FALSE
+590,Herschel574 Hiram237 Reinger292,11/13/1945,male,White,Not Hispanic or Latino,Marquette,646,FALSE
+591,Herschel574 Zachariah133 Ward668,1/27/2006,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+592,Herta650 Timothy142 Konopelski743,5/16/1950,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+593,Hiedi833 Iluminada398 Hessel84,11/14/1960,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,441,FALSE
+594,Hilde556 Valentina258 Ernser583,3/16/1957,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+595,Holli554 Leslie90 Reichert620,12/17/1961,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+596,Hollis7 Reynaldo722 Blick895,11/29/1994,male,White,Not Hispanic or Latino,Marquette,12,FALSE
+597,Hollis7 Raymond398 Prohaska837,7/17/1979,male,White,Not Hispanic or Latino,Marquette,532,FALSE
+598,Homer307 Otis335 Hamill307,4/12/1968,male,White,Not Hispanic or Latino,Marquette,165,FALSE
+599,Homer307 Benedict104 Hudson301,6/9/1943,male,White,Not Hispanic or Latino,Marquette,57,FALSE
+600,Homer307 Mohr916,6/30/1987,male,Other,Not Hispanic or Latino,Marquette,83,FALSE
+601,Homero668 Espinosa298,12/6/2015,male,Black or African American,Not Hispanic or Latino,Marquette,29,FALSE
+602,Hong136 Lesley194 Price929,2/3/2003,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+603,Horace32 Issac619 Schuster709,9/14/1995,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+604,Horacio317 Larry532 Hintz995,8/3/1944,male,White,Not Hispanic or Latino,Marquette,145,TRUE
+605,Horacio317 Sherman440 Little434,2/1/1987,male,White,Not Hispanic or Latino,Marquette,57,FALSE
+606,Hortense60 Asha251 Purdy2,3/20/2000,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+607,Howard613 Ratke343,8/3/1944,male,White,Not Hispanic or Latino,Marquette,97,FALSE
+608,Howard613 Adolfo777 Stokes453,3/25/1977,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+609,Hugh686 Fletcher87 Torp761,4/3/2023,male,White,Not Hispanic or Latino,Marquette,8,FALSE
+610,Hugo693 Kovacek682,4/4/1984,male,White,Not Hispanic or Latino,Marquette,73,FALSE
+611,Humberto482 Nicolas769,1/14/1997,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+612,Hunter736 McLaughlin530,1/26/1954,male,White,Not Hispanic or Latino,Marquette,69,FALSE
+613,Hyman89 Jacob959 Collier206,1/4/1929,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+614,Hyman89 Murphy561,4/28/1948,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,42,FALSE
+615,Hyo54 Mable471 Haag279,3/15/1955,female,White,Not Hispanic or Latino,Marquette,40,TRUE
+616,Ian270 Morissette863,8/31/1971,male,Asian,Not Hispanic or Latino,Marquette,28,FALSE
+617,Iesha760 Clemmie560 Baumbach677,9/20/1947,female,White,Not Hispanic or Latino,Marquette,130,FALSE
+618,Ignacia942 Krista314 Considine820,11/3/1970,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Marquette,39,FALSE
+619,Ignacio928 Valentin929 Abbott774,12/24/1961,male,White,Not Hispanic or Latino,Marquette,78,FALSE
+620,Ilene33 Leeann571 Welch179,9/20/1952,female,White,Not Hispanic or Latino,Marquette,501,FALSE
+621,Inga743 Bergstrom287,8/19/1948,female,White,Not Hispanic or Latino,Marquette,49,FALSE
+622,Ione925 Miriam769 Steuber698,7/30/1952,female,White,Not Hispanic or Latino,Marquette,30,FALSE
+623,Ira784 Jacobs452,4/19/1963,female,White,Not Hispanic or Latino,Marquette,35,FALSE
+624,Irvin970 Daren950 Beer512,3/6/1926,male,White,Not Hispanic or Latino,Marquette,69,FALSE
+625,Irvin970 Dietrich576,6/19/1967,male,White,Not Hispanic or Latino,Marquette,61,FALSE
+626,Irwin931 Elmer371 Bogan287,1/9/2021,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+627,Irwin931 Kris249 Dicki44,10/31/1954,male,White,Not Hispanic or Latino,Marquette,601,FALSE
+628,Irwin931 Lehner980,6/22/1949,male,Other,Not Hispanic or Latino,Marquette,223,FALSE
+629,Isaac321 Delmer311 Altenwerth646,12/18/1918,male,White,Not Hispanic or Latino,Marquette,90,FALSE
+630,Isaac321 Mary779 Schimmel440,10/7/1976,male,White,Not Hispanic or Latino,Marquette,27,TRUE
+631,Isaiah615 Kent912 Hyatt152,3/1/1966,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,43,FALSE
+632,Isidro558 Clint766 Lockman863,4/17/1965,male,Other,Not Hispanic or Latino,Marquette,32,FALSE
+633,Isreal8 Ivan258 Hartmann983,12/25/2021,male,White,Not Hispanic or Latino,Marquette,14,FALSE
+634,Ivan258 Dominique369 Parisian75,12/1/1942,male,White,Not Hispanic or Latino,Marquette,63,FALSE
+635,Ivory697 Edwin773 Pacocha935,7/17/1926,male,White,Not Hispanic or Latino,Marquette,417,FALSE
+636,Jacelyn576 Un745 Hamill307,5/20/1942,female,White,Not Hispanic or Latino,Marquette,53,FALSE
+637,Jack927 Beatty507,1/19/1974,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,21,FALSE
+638,Jack927 Anderson154 O'Conner199,1/27/1951,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,387,FALSE
+639,Jackeline690 Dach178,3/15/2009,female,Asian,Not Hispanic or Latino,Marquette,19,FALSE
+640,Jackson413 Carrol931 O'Keefe54,10/2/1975,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+641,Jackson413 Hans694 Ullrich385,11/8/1986,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+642,Jacob959 Carl856 Corwin846,4/10/1984,male,Black or African American,Not Hispanic or Latino,Marquette,27,FALSE
+643,Jacob959 Leroy603 Grant908,9/29/1918,male,White,Not Hispanic or Latino,Marquette,365,FALSE
+644,Jacob959 Lueilwitz711,3/12/2021,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+645,Jaime666 Clifton91 Schaefer657,1/7/1949,male,White,Not Hispanic or Latino,Marquette,202,FALSE
+646,Jake169 Phil587 Mayer370,3/16/1988,male,White,Not Hispanic or Latino,Marquette,71,FALSE
+647,Jake169 Claude750 Stamm704,7/8/1954,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,47,FALSE
+648,Jalisa590 Ellyn26 Schamberger479,4/18/1945,female,White,Not Hispanic or Latino,Marquette,113,FALSE
+649,Jamaal34 Michael441 Hermiston71,12/30/1976,male,White,Not Hispanic or Latino,Marquette,45,FALSE
+650,Jame231 Ronald408 Ernser583,12/27/1961,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+651,Jame231 Drew592 Goodwin327,1/23/1952,male,Black or African American,Not Hispanic or Latino,Marquette,49,FALSE
+652,Jamey282 Brooks264 Rau926,6/28/1980,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,36,FALSE
+653,Jamey282 Connie24 Rippin620,9/19/2022,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+654,Jamie386 Russ979 Balistreri607,1/27/1951,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,536,FALSE
+655,Jamie386 Donn979 Dibbert990,3/25/1988,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,15,TRUE
+656,Janae99 Dooley940,5/17/1963,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+657,Janessa317 Lynetta635 Kautzer186,3/26/1965,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+658,Janiece99 Pei116 Turner526,2/27/1963,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,267,FALSE
+659,Janina163 Cinda869 DuBuque211,4/10/2012,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,20,FALSE
+660,Janise4 Lucrecia714 Durgan499,3/8/1993,female,White,Not Hispanic or Latino,Marquette,52,FALSE
+661,Jared66 Schulist381,9/28/1973,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+662,Jarred626 Jarod376 Moen819,9/23/1992,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,24,FALSE
+663,Jarred626 Schmidt332,5/27/1958,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+664,Jarrod316 Von197 Streich926,12/18/1918,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+665,Jason347 William805 Eichmann909,3/16/1975,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+666,Jasper743 Myles862 Kuhic920,2/12/1927,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+667,Jay242 Okuneva707,3/25/1945,male,White,Not Hispanic or Latino,Marquette,56,FALSE
+668,Jayne73 Corina534 Langosh790,11/28/1993,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,49,FALSE
+669,Jazmin969 Blossom971 Wilkinson796,2/22/1976,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+670,Jc393 Jerrold404 Kub800,11/27/2004,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+671,Jeanette800 Racheal820 Tremblay80,4/23/1979,female,Black or African American,Not Hispanic or Latino,Marquette,26,FALSE
+672,Jeanice469 Jayme42 Moore224,4/16/1969,female,White,Not Hispanic or Latino,Marquette,86,FALSE
+673,Jeanie708 Telma919 O'Kon634,11/6/1961,female,White,Not Hispanic or Latino,Marquette,46,FALSE
+674,Jeannetta566 Mai109 Hodkiewicz467,1/6/1956,female,White,Not Hispanic or Latino,Marquette,47,FALSE
+675,Jeannette562 Upton904,3/15/1940,female,White,Not Hispanic or Latino,Marquette,260,FALSE
+676,Jed345 Garrett899 Bartell116,1/4/1929,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+677,Jed345 Garfield38 Moen819,5/3/1986,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+678,Jeffery551 Mariano761 Hahn503,11/28/1960,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+679,Jeffery551 Brooks264 McDermott739,12/1/2023,male,White,Not Hispanic or Latino,Marquette,9,FALSE
+680,Jeffery551 Justin359 Zboncak558,11/17/1964,male,Other,Not Hispanic or Latino,Marquette,305,FALSE
+681,Jenine75 Lennie123 Rohan584,6/10/1965,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,71,FALSE
+682,Jennell254 Sirena316 Tremblay80,12/7/2001,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+683,Jerald662 Rod343 Leffler128,4/26/1995,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+684,Jeramy610 Elisha578 Farrell962,12/8/1941,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,59,FALSE
+685,Jeramy610 Marcel580 Zboncak558,9/29/1964,male,White,Not Hispanic or Latino,Marquette,63,FALSE
+686,Jeremy766 Bashirian201,5/26/1960,male,White,Not Hispanic or Latino,Marquette,143,TRUE
+687,Jeremy766 Moira454 Cremin516,3/21/1982,female,White,Not Hispanic or Latino,Marquette,572,TRUE
+688,Jermaine675 Cristobal567 Swaniawski813,1/28/1978,male,White,Not Hispanic or Latino,Marquette,64,FALSE
+689,Jerold208 Huels583,10/23/1982,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+690,Jerold208 Israel728 Volkman526,6/25/1959,male,Asian,Not Hispanic or Latino,Marquette,284,TRUE
+691,Jerrell6 Johnie961 Kling921,9/13/1983,male,White,Not Hispanic or Latino,Marquette,59,FALSE
+692,Jerrell6 Domenic627 Pollich983,3/25/1945,male,White,Not Hispanic or Latino,Marquette,87,FALSE
+693,Jerrell6 Jesse626 Romaguera67,3/15/1984,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+694,Jesica465 Rosa195 Reichel38,3/26/2008,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,22,FALSE
+695,Jess275 Lou594 Goyette777,1/7/1949,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+696,Jessenia588 Maragaret140 Jast432,1/16/1950,female,White,Not Hispanic or Latino,Marquette,51,TRUE
+697,Jessie665 Ruecker817,11/24/2020,male,Other,Not Hispanic or Latino,Marquette,14,FALSE
+698,Jesus702 Armando772 Lindgren255,4/10/2009,male,White,Not Hispanic or Latino,Marquette,25,FALSE
+699,Jesusita936 Muoi890 Mosciski958,7/18/1950,female,White,Not Hispanic or Latino,Marquette,82,FALSE
+700,Jettie913 Evelyn437 King743,5/21/1987,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,55,FALSE
+701,Jewel43 Efrain317 Hahn503,3/30/2005,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+702,Jewell855 Jones311,1/27/2009,female,Black or African American,Not Hispanic or Latino,Marquette,28,FALSE
+703,Joannie32 Nicol381 McDermott739,4/12/1950,female,White,Not Hispanic or Latino,Marquette,80,FALSE
+704,Joaquin141 Millard193 Buckridge80,8/18/1934,male,White,Not Hispanic or Latino,Marquette,142,FALSE
+705,Joaquina124 Azucena377 Kirlin939,7/17/1956,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,56,FALSE
+706,Joe656 Gertrudis163 Walker122,5/1/1965,female,White,Not Hispanic or Latino,Marquette,553,FALSE
+707,Joe656 Vern731 Lakin515,11/15/2006,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+708,John539 Hessel84,11/24/1941,male,White,Not Hispanic or Latino,Marquette,192,FALSE
+709,Johnathan55 Wilbur107 Blick895,3/23/2011,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,21,FALSE
+710,Johnie961 Arnoldo445 Bradtke547,9/23/1942,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,34,FALSE
+711,Johnie961 Reed154 Ratke343,1/15/1949,male,White,Not Hispanic or Latino,Marquette,110,FALSE
+712,Johnie961 Cornelius968 Yost751,12/16/1958,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+713,Johnnie679 Violeta106 Spencer878,11/23/2004,female,Other,Not Hispanic or Latino,Marquette,31,FALSE
+714,Johnny786 Harrison106 Konopelski743,6/28/1974,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+715,Johnny786 George991 O'Keefe54,3/20/1950,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+716,Johnson679 Arnulfo253 Stokes453,2/13/1980,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,13,FALSE
+717,Jon665 Johnny786 Fadel536,4/22/1946,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,451,FALSE
+718,Jonah176 Otis335 Torp761,11/21/1963,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+719,Jonathan639 Delmar187 Torphy630,1/15/1966,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+720,Jordan900 Elliot577 Boehm581,1/15/1966,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+721,Jordon466 Hickle134,12/24/1945,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+722,Jordon466 Cecil300 Olson653,9/11/1934,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+723,Jorge203 Nicolas769,5/20/1951,male,White,Not Hispanic or Latino,Marquette,186,FALSE
+724,Jorge Luis88 Ricardo560 Peres371,8/28/1974,male,Black or African American,Not Hispanic or Latino,Marquette,40,FALSE
+725,Joseph689 Renato359 Waelchi213,11/6/1958,male,White,Not Hispanic or Latino,Marquette,67,FALSE
+726,Josephina269 Krysten276 Larkin917,6/9/1966,female,White,Not Hispanic or Latino,Marquette,43,FALSE
+727,Joshua658 Junior695 Schaefer657,5/1/1995,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,27,FALSE
+728,Josiah310 Rodolfo763 Ullrich385,4/11/1974,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+729,Josue598 Rocky100 Konopelski743,1/2/2008,male,Black or African American,Not Hispanic or Latino,Marquette,21,FALSE
+730,Jovita355 Margarette462 Barrows492,11/26/1961,female,Other,Not Hispanic or Latino,Marquette,33,FALSE
+731,Jovita355 Pearline482 Funk324,5/1/1992,female,White,Not Hispanic or Latino,Marquette,86,FALSE
+732,Juana825 Candie120 Borer986,9/9/2008,female,White,Not Hispanic or Latino,Marquette,24,FALSE
+733,Jude172 Frederic454 Hirthe744,5/31/2008,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+734,Jude172 Vito638 Strosin214,9/29/1918,male,White,Not Hispanic or Latino,Marquette,54,FALSE
+735,Julian715 Miquel905 Nikolaus26,10/28/1948,male,White,Not Hispanic or Latino,Marquette,70,FALSE
+736,Juliana372 Corie618 Homenick806,4/27/1953,female,White,Not Hispanic or Latino,Marquette,46,FALSE
+737,Juliana372 Charita800 Rempel203,7/2/2013,female,White,Not Hispanic or Latino,Marquette,19,FALSE
+738,Julienne688 Libbie63 Mante251,10/16/2003,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,33,FALSE
+739,Julio255 Jamison785 Bayer639,7/17/1926,male,White,Not Hispanic or Latino,Marquette,498,FALSE
+740,Julio255 Guy979 West559,9/1/1945,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+741,Julio CÃ©sar525 Manuel446 Griego535,11/27/1920,male,White,Hispanic or Latino,Marquette,526,FALSE
+742,Julius90 Jamey282 Walter473,7/17/1926,male,White,Not Hispanic or Latino,Marquette,70,FALSE
+743,Junie167 Kerry175 Feest103,11/7/2009,female,White,Not Hispanic or Latino,Marquette,28,FALSE
+744,Kaitlin600 Block661,5/23/2001,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+745,Kaley842 Kaye394 Klein929,12/11/1947,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+746,Kandy733 Latashia561 King743,7/9/1946,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,80,FALSE
+747,Kanesha23 Selma398 Dare640,11/6/1956,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+748,Karan473 Bahringer146,6/25/1961,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+749,Karina848 Whitley172 Smith67,12/16/1968,female,Black or African American,Not Hispanic or Latino,Marquette,590,TRUE
+750,Karmen270 Catrina144 Gulgowski816,7/24/1974,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+751,Karrie350 Colene948 Farrell962,4/10/2021,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,12,FALSE
+752,Karrie350 Jesenia223 Durgan499,11/14/1950,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,62,FALSE
+753,Kary197 Luz785 Price929,1/19/1964,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+754,Kasey569 Gerardo48 Roberts511,8/31/1960,male,White,Not Hispanic or Latino,Marquette,80,FALSE
+755,Kassandra256 Hirthe744,7/4/2017,female,White,Not Hispanic or Latino,Marquette,23,FALSE
+756,Katerine813 Christian753 Boyer713,5/28/1966,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+757,Katerine813 Fisher429,5/6/2007,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+758,Katheleen349 Taryn906 Boyle917,3/22/1973,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,41,FALSE
+759,Kathey482 Karissa612 Mertz280,9/10/1960,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+760,Kathi607 Hermann103,4/16/1971,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,512,FALSE
+761,Kathrin605 Fisher429,2/12/1956,female,White,Not Hispanic or Latino,Marquette,121,FALSE
+762,Kathryne752 Eloisa55 Rutherford999,9/23/1953,female,White,Not Hispanic or Latino,Marquette,68,FALSE
+763,Katrina8 Marianela210 Quigley282,1/12/1968,female,White,Not Hispanic or Latino,Marquette,66,FALSE
+764,Kayleen757 Hayes766,3/18/1969,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+765,Keeley419 Tonisha838 Kuhlman484,7/20/1981,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,42,FALSE
+766,Keenan632 Beatty507,6/3/1980,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+767,Keith571 Karl184 Barton704,8/3/1970,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,37,FALSE
+768,Kelli207 Jackeline690 Doyle959,2/27/1963,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,70,FALSE
+769,Kelly223 Everett935 Vandervort697,12/18/1918,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+770,Kelly223 Ezra452 Wunsch504,5/16/1935,male,White,Not Hispanic or Latino,Marquette,164,FALSE
+771,Kelsi424 Felisa186 Koelpin146,9/1/1943,female,White,Not Hispanic or Latino,Marquette,41,FALSE
+772,Kendall673 Cathryn51 Willms744,6/11/1996,female,White,Not Hispanic or Latino,Marquette,111,TRUE
+773,Kendall673 Gema698 Harber290,12/13/1974,female,White,Not Hispanic or Latino,Marquette,78,FALSE
+774,Kendra609 Treasa448 Trantow673,10/12/1963,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,86,FALSE
+775,Kendrick479 Humberto482 Boyer713,10/17/1961,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,42,FALSE
+776,Kenneth671 Ronny764 Blick895,5/6/2000,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+777,Kenneth671 Stracke611,2/1/1954,male,White,Not Hispanic or Latino,Marquette,47,FALSE
+778,Kennith515 Leonardo412 Braun514,8/2/2020,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+779,Kennith515 Hickle134,1/4/1929,male,White,Not Hispanic or Latino,Marquette,84,FALSE
+780,Kenton313 Jody426 Murray856,12/23/1982,male,White,Not Hispanic or Latino,Marquette,54,FALSE
+781,Kerstin790 Courtney281 Douglas31,6/27/1918,female,White,Not Hispanic or Latino,Marquette,725,FALSE
+782,Keshia89 Bode78,3/15/2009,female,Asian,Not Hispanic or Latino,Marquette,12,FALSE
+783,Kieth891 Elmer371 Treutel973,5/1/1951,male,White,Not Hispanic or Latino,Marquette,191,FALSE
+784,Kim439 Francisco472 Jerde200,11/5/1975,male,White,Not Hispanic or Latino,Marquette,79,FALSE
+785,Kimberely738 Tanya49 Rippin620,4/26/1954,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+786,Kimberley248 Annika454 Reichert620,11/16/1917,female,White,Not Hispanic or Latino,Marquette,126,FALSE
+787,Kimberli643 Ona426 Koch169,8/14/1974,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,36,FALSE
+788,King743 Guadalupe206 Goyette777,7/6/1972,male,White,Not Hispanic or Latino,Marquette,43,TRUE
+789,Kip442 Robby860 O'Keefe54,6/22/2001,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,30,FALSE
+790,Kirk871 Major265 Stark857,12/29/1960,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+791,Korey682 Kurt412 Hane680,11/5/1975,male,White,Not Hispanic or Latino,Marquette,75,FALSE
+792,Korey682 Errol226 Nitzsche158,7/18/1957,male,White,Not Hispanic or Latino,Marquette,41,TRUE
+793,Kraig824 Brad867 Renner328,1/25/2025,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,2,FALSE
+794,Kristan816 Lecia978 Mann644,5/5/1966,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+795,Kristopher775 Gene733 McCullough561,7/30/1925,male,Black or African American,Not Hispanic or Latino,Marquette,726,FALSE
+796,Kristyn560 Sunny31 Skiles927,9/2/1980,female,White,Not Hispanic or Latino,Marquette,105,FALSE
+797,Kyle55 Randy380 McClure239,12/9/1971,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+798,Laila673 Maisie206 Ullrich385,7/18/2006,female,White,Not Hispanic or Latino,Marquette,53,FALSE
+799,Lamar193 Kenneth671 Koelpin146,10/2/1970,male,White,Not Hispanic or Latino,Marquette,502,FALSE
+800,Lance203 Bailey598,7/16/1966,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+801,Lani848 Tajuana20 Hickle134,12/29/2008,female,White,Not Hispanic or Latino,Marquette,36,FALSE
+802,Lanie389 Denita497 Kling921,7/9/2000,female,White,Not Hispanic or Latino,Marquette,91,FALSE
+803,Lanny564 Elmo857 Lang846,6/16/1928,male,White,Not Hispanic or Latino,Marquette,371,FALSE
+804,Lanny564 Denis399 Marquardt819,9/29/1969,male,White,Not Hispanic or Latino,Marquette,68,FALSE
+805,Lara964 Cordelia715 O'Connell601,2/26/1945,female,White,Not Hispanic or Latino,Marquette,47,FALSE
+806,Larry532 Erwin847 Bechtelar572,2/6/2016,male,Black or African American,Not Hispanic or Latino,Marquette,23,FALSE
+807,Larry532 Nathanial472 Erdman779,12/30/1952,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+808,Larue605 Joeann663 Schamberger479,11/9/1972,female,White,Not Hispanic or Latino,Marquette,69,FALSE
+809,Lasonya941 Berna338 Schaden604,5/9/2014,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+810,Latoyia537 Vandervort697,9/13/2010,female,White,Not Hispanic or Latino,Marquette,57,FALSE
+811,Latricia419 Kris249 Braun514,10/16/1921,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,52,FALSE
+812,Laure395 Clyde817 Quitzon246,3/12/1949,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,558,FALSE
+813,Laurene370 Osinski784,11/16/1917,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+814,Laverne101 Amina496 Farrell962,1/7/2006,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+815,Laverne101 Smith67,3/5/1945,male,White,Not Hispanic or Latino,Marquette,49,FALSE
+816,Lavonna163 Larisa542 Cormier289,1/4/2019,female,White,Not Hispanic or Latino,Marquette,30,FALSE
+817,Lavonne167 Erin498 Stoltenberg489,4/26/2006,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+818,Lawana430 Joshua658 Walsh511,11/7/1958,female,White,Not Hispanic or Latino,Marquette,83,FALSE
+819,Lawerence6 Judson999 Weber641,9/23/1957,male,Other,Not Hispanic or Latino,Marquette,64,FALSE
+820,Layne115 Rhona164 Paucek755,4/4/1945,female,White,Not Hispanic or Latino,Marquette,68,FALSE
+821,Lazaro919 Noah480 Kiehn525,12/10/1965,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,25,FALSE
+822,Le457 Mariette443 Labadie908,3/24/1969,female,White,Not Hispanic or Latino,Marquette,56,FALSE
+823,Leandro563 Milan77 Leuschke194,7/1/1992,male,White,Not Hispanic or Latino,Marquette,69,FALSE
+824,Leandro563 Cedric746 Schiller186,11/20/1983,male,White,Not Hispanic or Latino,Marquette,56,FALSE
+825,Leanna255 Dona966 Marks830,11/7/1958,female,White,Not Hispanic or Latino,Marquette,26,FALSE
+826,Leatha675 Jacobs452,6/4/1960,female,White,Not Hispanic or Latino,Marquette,46,FALSE
+827,Leatrice181 Malena136 Bogan287,7/7/1961,female,White,Not Hispanic or Latino,Marquette,35,FALSE
+828,Lee268 Clay913 Cartwright189,3/9/2013,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,55,FALSE
+829,Lee268 Donnie175 Hackett68,5/24/2010,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,48,FALSE
+830,Leeanna836 Genevieve884 Schmidt332,10/16/1921,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,39,FALSE
+831,Leia529 Anja508 Kertzmann286,8/6/1948,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+832,Leida589 Lauri399 Monahan736,3/17/1979,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,57,FALSE
+833,Lela622 Samara159 Russel238,2/27/1973,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,28,TRUE
+834,Lelah386 Pacocha935,2/11/1949,female,White,Not Hispanic or Latino,Marquette,35,FALSE
+835,Lemuel304 Diego848 Nader710,12/18/1918,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+836,Lenard338 Jeffrey461 Cummerata161,5/27/1925,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+837,Lenard338 Hobert364 Rempel203,5/16/1999,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+838,Lenny728 Asa127 Stokes453,2/24/1981,male,White,Not Hispanic or Latino,Marquette,57,FALSE
+839,Leona665 Mante251,6/2/1953,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,295,FALSE
+840,Leonard963 Johnathon489 Lesch175,5/6/2003,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+841,Leonardo412 Errol226 Mante251,7/17/1926,male,White,Not Hispanic or Latino,Marquette,52,FALSE
+842,Leonel449 Arthur650 Schneider199,4/2/1957,male,White,Not Hispanic or Latino,Marquette,122,FALSE
+843,Leonila462 Ollie731 Welch179,8/15/1946,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+844,Leopoldo762 Hans694 Heathcote539,6/16/1928,male,White,Not Hispanic or Latino,Marquette,549,FALSE
+845,Leroy603 Bernard308 McDermott739,6/21/1950,male,White,Not Hispanic or Latino,Marquette,41,FALSE
+846,Les282 Clyde817 D'Amore443,4/20/1969,male,White,Not Hispanic or Latino,Marquette,46,FALSE
+847,Les282 Craig656 Rau926,2/16/1971,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,478,FALSE
+848,Levi940 Howard613 Hartmann983,8/9/1975,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+849,Lewis216 Lionel365 Gottlieb798,1/26/1980,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,67,FALSE
+850,Lia388 Charisse42 O'Keefe54,12/17/1961,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+851,Liana375 Schowalter414,7/24/1920,female,White,Not Hispanic or Latino,Marquette,544,FALSE
+852,Lien262 Myrtie622 Rohan584,10/29/1951,female,White,Not Hispanic or Latino,Marquette,484,FALSE
+853,Lieselotte680 Xiao631 Jakubowski832,6/9/2021,female,White,Not Hispanic or Latino,Marquette,13,FALSE
+854,Ligia986 Tyra356 Ortiz186,8/11/1963,female,Other,Not Hispanic or Latino,Marquette,38,FALSE
+855,Lilly908 Lizbeth716 Emard19,12/3/1984,female,White,Not Hispanic or Latino,Marquette,67,FALSE
+856,Lincoln623 Mitchel812 Kshlerin58,9/12/1968,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+857,Lindsay928 Foster87 Wilkinson796,2/25/2013,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,19,FALSE
+858,Linh535 Dorthey25 Zboncak558,9/24/1950,female,White,Not Hispanic or Latino,Marquette,51,FALSE
+859,Linwood526 Reynolds644,7/7/1955,male,White,Not Hispanic or Latino,Marquette,124,FALSE
+860,Lisbeth69 Natosha194 Homenick806,10/23/1982,female,White,Not Hispanic or Latino,Marquette,115,FALSE
+861,Lissette621 Azalee124 Streich926,6/21/1975,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,45,FALSE
+862,Lita714 Emerita401 Stark857,7/30/1957,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,48,FALSE
+863,Lizbeth716 Teisha100 Walter473,7/2/1945,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,528,FALSE
+864,Lizzie15 Raquel318 Weissnat378,10/31/2014,female,White,Not Hispanic or Latino,Marquette,26,FALSE
+865,Lon587 Walton167 Mosciski958,6/16/1951,male,White,Not Hispanic or Latino,Marquette,48,FALSE
+866,Lon587 Quincy153 Skiles927,11/25/1946,male,Other,Not Hispanic or Latino,Marquette,389,TRUE
+867,Lorean637 Chantelle310 Auer97,6/2/1965,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+868,Lorena247 Gussie514 Goldner995,5/11/1970,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,59,FALSE
+869,Lorene243 Vicki422 Gerhold939,4/2/1988,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,57,FALSE
+870,Lorilee250 Chu728 Schaefer657,10/19/1961,female,Other,Not Hispanic or Latino,Marquette,46,FALSE
+871,Lorina403 Kami26 Johnson679,7/30/1957,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,512,FALSE
+872,Lorraine478 Lucy743 Wiegand701,7/24/1920,female,White,Not Hispanic or Latino,Marquette,561,FALSE
+873,Lorriane838 Tresa661 Walsh511,11/8/1999,female,White,Not Hispanic or Latino,Marquette,47,FALSE
+874,Lou594 Hagenes547,4/12/2005,male,White,Not Hispanic or Latino,Marquette,88,FALSE
+875,Lou594 Emilio417 Langworth352,5/17/1940,male,White,Not Hispanic or Latino,Marquette,619,FALSE
+876,Lou594 Vida128 Rolfson709,11/16/1917,female,White,Not Hispanic or Latino,Marquette,59,FALSE
+877,Louella862 Glennis930 Kuhlman484,2/11/1949,female,White,Not Hispanic or Latino,Marquette,56,FALSE
+878,Louie190 Hudson301,2/5/1962,female,Asian,Not Hispanic or Latino,Marquette,82,TRUE
+879,Loyd638 Dillon740 Runolfsson901,2/27/1958,male,White,Not Hispanic or Latino,Marquette,61,FALSE
+880,Lucia634 Reina25 Delao225,7/28/1993,female,White,Hispanic or Latino,Marquette,93,FALSE
+881,Luciana251 Fisher429,11/16/1917,female,White,Not Hispanic or Latino,Marquette,172,FALSE
+882,Lucien408 Kasey569 Thompson596,9/22/1983,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,19,FALSE
+883,Lucio648 Willian804 White193,9/23/1942,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,49,TRUE
+884,Ludie599 Andree11 Toy286,11/11/2001,female,White,Not Hispanic or Latino,Marquette,21,FALSE
+885,Ludivina884 Rickie717 Nikolaus26,10/23/1982,female,White,Not Hispanic or Latino,Marquette,22,FALSE
+886,Luetta803 Ina660 Ortiz186,12/10/1999,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+887,Luigi346 Legros616,11/21/1944,male,White,Not Hispanic or Latino,Marquette,72,FALSE
+888,Luise714 Charita800 Bauch723,11/27/1950,female,White,Not Hispanic or Latino,Marquette,46,FALSE
+889,Lupe126 Ashely524 Dietrich576,11/21/1925,female,White,Not Hispanic or Latino,Marquette,56,FALSE
+890,Lupe126 Demetrius568 Swift555,12/21/1940,male,White,Not Hispanic or Latino,Marquette,455,TRUE
+891,Lurlene215 Yee761 Cartwright189,2/11/2011,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,19,FALSE
+892,Lynn917 Lane844 Shanahan202,10/30/1968,male,White,Not Hispanic or Latino,Marquette,35,TRUE
+893,Mackenzie361 Douglas31,1/22/1944,female,White,Not Hispanic or Latino,Marquette,73,TRUE
+894,Madelene819 Lise687 O'Hara248,7/27/1951,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+895,Madlyn383 Meryl421 Cremin516,10/16/1921,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,36,FALSE
+896,Magaly973 Kaci716 Brekke496,12/6/1971,female,White,Not Hispanic or Latino,Marquette,56,FALSE
+897,Magdalena964 Tessa832 O'Kon634,5/26/1998,female,Other,Not Hispanic or Latino,Marquette,55,FALSE
+898,Magen68 Sharla853 Schimmel440,10/28/1941,female,White,Not Hispanic or Latino,Marquette,73,FALSE
+899,Magen68 Spinka232,6/17/2022,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,18,FALSE
+900,Maggie320 Laverne101 Maggio310,10/25/2011,female,White,Not Hispanic or Latino,Marquette,18,FALSE
+901,Magnolia736 Cammy883 Purdy2,5/24/1975,female,White,Not Hispanic or Latino,Marquette,28,TRUE
+902,Maida946 Stacee229 Adams676,12/28/2011,female,White,Not Hispanic or Latino,Marquette,19,FALSE
+903,Maisha241 Roselee899 Hilpert278,11/8/1997,female,White,Not Hispanic or Latino,Marquette,54,TRUE
+904,Malcolm243 Quitzon246,12/25/1958,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,472,FALSE
+905,Malorie969 Lonnie913 Leuschke194,9/25/2011,female,White,Not Hispanic or Latino,Marquette,33,FALSE
+906,Man114 Pete38 Gutmann970,6/18/1951,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+907,Manual570 Ted955 Osinski784,7/3/1940,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+908,Marcel580 Randell912 Goodwin327,7/22/2023,male,White,Not Hispanic or Latino,Marquette,9,FALSE
+909,Marcelino726 Antone63 Bartell116,12/30/1953,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,27,FALSE
+910,Marcos263 Demetrius568 Howe413,5/27/1925,male,White,Not Hispanic or Latino,Marquette,41,FALSE
+911,Marcy588 June482 Legros616,7/27/1954,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+912,Marg761 Barbie211 Grady603,12/20/1966,female,White,Not Hispanic or Latino,Marquette,124,FALSE
+913,Margaret865 Bryanna1 Rath779,9/4/1951,female,White,Not Hispanic or Latino,Marquette,825,FALSE
+914,Margarita164 Terresa418 Paucek755,2/26/2015,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+915,Margarito178 Domenic627 Lowe577,10/18/1990,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+916,Margart214 Dimple273 Johnson679,3/10/1971,female,Black or African American,Not Hispanic or Latino,Marquette,51,FALSE
+917,Marge692 Brakus656,11/24/1968,female,Black or African American,Not Hispanic or Latino,Marquette,35,FALSE
+918,Margery365 Hauck852,1/6/1973,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+919,Marget728 Florentina22 Marquardt819,6/27/2001,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+920,Margret280 Heaney114,1/26/2015,female,Other,Not Hispanic or Latino,Marquette,30,FALSE
+921,Margrett284 Amber507 O'Reilly797,10/3/2021,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,16,FALSE
+922,Margurite588 Dann525 O'Connell601,10/16/1921,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,486,FALSE
+923,Mariah942 Lindgren255,11/30/1974,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+924,Maribel82 Cronin387,1/17/1962,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+925,Maribel82 Marylouise236 Pacocha935,12/21/1961,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+926,Maricela194 Alvina833 Muller251,8/31/1943,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,63,FALSE
+927,Maricela194 Hildred696 Schuster709,12/21/1977,female,White,Not Hispanic or Latino,Marquette,63,FALSE
+928,Marilee479 Anisha16 Rice937,3/24/2001,female,White,Not Hispanic or Latino,Marquette,30,TRUE
+929,Marinda592 Dorthey25 Hilpert278,12/3/1965,female,Other,Not Hispanic or Latino,Marquette,33,FALSE
+930,Marion502 Booker670 Brown30,4/2/1976,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+931,Marion502 Todd315 Gleason633,9/23/1974,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+932,Marion502 Loreen513 Schowalter414,4/10/1964,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,52,FALSE
+933,Marisol435 Quinn173 Altenwerth646,5/22/1958,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,168,FALSE
+934,Marissa322 Jestine4 Hickle134,6/11/1954,female,White,Not Hispanic or Latino,Marquette,54,FALSE
+935,Markus389 Darrell400 Bruen238,3/14/1980,male,Other,Not Hispanic or Latino,Marquette,17,FALSE
+936,Markus389 Alphonso102 Jones311,11/9/1951,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+937,Markus389 Milan77 Kuhn96,4/4/2001,male,White,Not Hispanic or Latino,Marquette,96,TRUE
+938,Markus389 Virgil85 Rath779,5/27/1925,male,White,Not Hispanic or Latino,Marquette,86,TRUE
+939,Marlene554 Corrine68 Effertz744,6/24/1970,female,Black or African American,Not Hispanic or Latino,Marquette,42,FALSE
+940,Marlon619 Mitch821 Jakubowski832,1/11/2001,male,White,Not Hispanic or Latino,Marquette,12,FALSE
+941,Marquita692 Gregoria352 Zulauf375,10/19/1961,female,Other,Not Hispanic or Latino,Marquette,410,FALSE
+942,Marshall526 Sherman440 Turcotte120,1/23/2008,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+943,Martin117 Carlos172 Marks830,5/27/1925,male,White,Not Hispanic or Latino,Marquette,494,FALSE
+944,Martine382 Mariann762 McLaughlin530,12/31/1984,female,White,Not Hispanic or Latino,Marquette,148,TRUE
+945,MartÃ­n25 Lucio648,11/27/1920,male,White,Hispanic or Latino,Marquette,454,FALSE
+946,Marvin195 Harber290,11/7/1961,male,White,Not Hispanic or Latino,Marquette,70,FALSE
+947,Marvis190 Tonette11 McLaughlin530,12/8/2008,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,21,FALSE
+948,Marybelle759 Mi492 Weimann465,4/18/1963,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,27,FALSE
+949,Marybeth994 Clare187 Kiehn525,11/12/1959,female,White,Not Hispanic or Latino,Marquette,43,FALSE
+950,Marylyn194 Jodie811 Beatty507,7/19/1968,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+951,Mason910 Merrill415 Jacobi462,2/6/2025,male,White,Not Hispanic or Latino,Marquette,1,FALSE
+952,Mathilda200 MacGyver246,9/29/1965,female,White,Not Hispanic or Latino,Marquette,94,FALSE
+953,Matt836 Jim478 Hudson301,9/21/1990,male,White,Not Hispanic or Latino,Marquette,18,FALSE
+954,Matthew562 Cassin499,3/4/1947,male,White,Not Hispanic or Latino,Marquette,53,FALSE
+955,Maud851 Kelly223 Champlin946,2/27/1983,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+956,Maude482 Marya246 Stark857,9/8/1964,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+957,Maurice742 Perla570 Johnston597,3/26/1952,female,White,Not Hispanic or Latino,Marquette,42,FALSE
+958,Mauro926 Hosea56 Crona259,12/24/1961,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+959,Mauro926 Marcelo725 Torp761,8/13/1952,male,White,Not Hispanic or Latino,Marquette,60,FALSE
+960,Mavis612 Nelly786 Kunze215,11/9/1948,female,White,Not Hispanic or Latino,Marquette,55,FALSE
+961,Max124 Lenard338 Quitzon246,1/23/1943,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,233,FALSE
+962,Maxima831 Deanne837 Hayes766,2/26/1990,female,White,Not Hispanic or Latino,Marquette,63,FALSE
+963,Maxwell782 Tristan353 Heller342,3/8/1972,male,White,Not Hispanic or Latino,Marquette,77,FALSE
+964,Maxwell782 Ellsworth48 Osinski784,10/15/1960,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,45,TRUE
+965,Maybelle917 Elfriede680 Greenholt190,2/16/1991,female,White,Not Hispanic or Latino,Marquette,43,TRUE
+966,Mckinley734 Alfred550 Kunze215,11/9/1932,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,437,FALSE
+967,Mckinley734 Elmo857 Reynolds644,5/24/2018,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,18,FALSE
+968,Mechelle851 Lorean637 Rolfson709,8/18/1996,female,White,Not Hispanic or Latino,Marquette,33,FALSE
+969,Meghan514 Shila857 Zulauf375,10/31/2000,female,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,Marquette,59,FALSE
+970,Mei233 Tijuana228 Hauck852,4/24/2010,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,26,TRUE
+971,Mellie476 Lissette621 Raynor401,1/25/1997,female,White,Not Hispanic or Latino,Marquette,71,FALSE
+972,Mellisa81 Thea616 Raynor401,9/6/1979,female,White,Not Hispanic or Latino,Marquette,61,FALSE
+973,Mellisa81 Katheryn92 Torp761,12/1/2017,female,White,Not Hispanic or Latino,Marquette,21,FALSE
+974,Melodie819 Ingeborg677 Crooks415,7/26/2004,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+975,Melvin857 Delmer311 Douglas31,5/29/2006,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,22,FALSE
+976,Melvin857 Rory188 Runolfsson901,10/9/1971,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+977,Melynda458 Gertrud593 Brekke496,10/22/2019,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,17,FALSE
+978,Meridith488 Armstrong51,8/23/1964,female,White,Not Hispanic or Latino,Marquette,69,FALSE
+979,Merlin721 Feest103,1/11/1965,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,42,FALSE
+980,Merrill415 Howell947,12/7/1985,male,White,Not Hispanic or Latino,Marquette,10,FALSE
+981,Mervin111 Harvey63 Roberts511,11/13/1945,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+982,Mi492 Dorene845 Greenfelder433,7/17/1956,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,50,FALSE
+983,Micah422 Jospeh459 Bogan287,10/22/1955,male,White,Not Hispanic or Latino,Marquette,45,TRUE
+984,Micah422 Malcolm243 Cole117,12/17/1958,male,White,Not Hispanic or Latino,Marquette,96,FALSE
+985,Micah422 Sharmaine326 Reichert620,1/24/1972,female,White,Not Hispanic or Latino,Marquette,16,FALSE
+986,Micha632 Lekisha909 Kilback373,5/22/1958,female,White,Not Hispanic or Latino,Marquette,104,FALSE
+987,Michale231 Gale827 Doyle959,9/23/1960,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+988,Michele387 Konopelski743,3/19/1968,female,White,Not Hispanic or Latino,Marquette,131,FALSE
+989,Mickey576 Santo387 Ledner144,2/27/1958,male,White,Not Hispanic or Latino,Marquette,429,FALSE
+990,Micki733 Audrie782 Terry864,11/5/1955,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+991,Micki733 Janell58 Jacobi462,5/25/1963,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,52,TRUE
+992,Mignon230 Antoinette709 Gutkowski940,1/22/2003,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,106,TRUE
+993,Miguel815 Murphy561,7/1/2017,male,White,Not Hispanic or Latino,Marquette,26,TRUE
+994,Mila257 Janet238 Lebsack687,4/26/1970,female,Other,Not Hispanic or Latino,Marquette,47,FALSE
+995,Milan77 Dale454 Kshlerin58,6/9/1996,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+996,Milda157 Lavera253 Balistreri607,9/6/2020,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,15,FALSE
+997,Millie392 Jenelle653 Fay398,1/3/1957,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+998,Milo271 Dewayne363 Stroman228,7/19/1995,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,19,FALSE
+999,Minh326 Buckridge80,5/11/1970,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,49,FALSE
+1000,Minh326 Darius626 Cremin516,11/8/1995,male,White,Not Hispanic or Latino,Marquette,15,TRUE
+1001,Miquel905 Pedro316 Breitenberg711,10/19/1998,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+1002,Miquel905 Collin529 Ziemann98,7/25/1982,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,46,FALSE
+1003,Mira443 Reilly981,3/20/2024,female,White,Not Hispanic or Latino,Marquette,8,FALSE
+1004,Miranda712 Samantha681 Koelpin146,7/30/1957,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,98,FALSE
+1005,Mirtha993 Camie739 Kiehn525,1/28/1958,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+1006,Miss492 Kihn564,8/3/1959,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+1007,Misty404 Annabel185 Stracke611,2/4/1966,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1008,Mitchel812 Coy949 Collins926,11/17/1964,male,Other,Not Hispanic or Latino,Marquette,589,FALSE
+1009,Mitsue965 Carolynn568 Koepp521,6/20/1984,female,White,Not Hispanic or Latino,Marquette,35,FALSE
+1010,Modesto621 Christoper325 Thiel172,4/21/1993,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+1011,Mohamed943 Collin529 Dach178,11/26/1945,male,White,Not Hispanic or Latino,Marquette,47,FALSE
+1012,Mohamed943 Charlie254 Hodkiewicz467,6/5/2014,male,Black or African American,Not Hispanic or Latino,Marquette,22,FALSE
+1013,Mohammad578 Carl856 Miller503,7/2/1968,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,23,FALSE
+1014,Mohammed454 Beau391 Brown30,11/18/1954,male,White,Not Hispanic or Latino,Marquette,66,FALSE
+1015,Mohammed454 Durgan499,11/18/1954,male,White,Not Hispanic or Latino,Marquette,46,FALSE
+1016,Mohammed454 Emmanuel930 Hermiston71,4/17/1965,male,Other,Not Hispanic or Latino,Marquette,59,FALSE
+1017,Moises22 Kutch271,12/24/1945,male,White,Not Hispanic or Latino,Marquette,417,FALSE
+1018,Mona85 Walsh511,9/12/1994,female,Black or African American,Not Hispanic or Latino,Marquette,55,FALSE
+1019,Monet875 Lisabeth458 Hahn503,9/1/1971,female,White,Not Hispanic or Latino,Marquette,28,FALSE
+1020,Monica757 Luise714 Stamm704,6/9/1968,female,White,Not Hispanic or Latino,Marquette,70,FALSE
+1021,Monroe732 Xavier983 Upton904,3/23/1998,male,White,Not Hispanic or Latino,Marquette,50,FALSE
+1022,Monte325 Alec433 Barton704,9/4/1965,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+1023,Monte325 Joel444 Legros616,11/24/1972,male,White,Not Hispanic or Latino,Marquette,68,FALSE
+1024,Monty345 Bruce167 Windler79,10/31/2023,male,White,Not Hispanic or Latino,Marquette,11,FALSE
+1025,Morgan564 Isaac321 Ledner144,10/23/1948,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,494,FALSE
+1026,Morgan564 Mariano761 Upton904,8/1/1962,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+1027,Morris740 Cedric746 Altenwerth646,9/11/1950,male,White,Not Hispanic or Latino,Marquette,63,FALSE
+1028,Morton637 Ellis535 Schowalter414,2/21/1974,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+1029,Mose244 Olin642 Reinger292,1/27/1968,male,Other,Not Hispanic or Latino,Marquette,209,FALSE
+1030,Murray856 Pollich983,11/2/1967,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,83,FALSE
+1031,My508 Apryl870 Rau926,3/10/2005,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+1032,Myron933 John539 Keebler762,6/16/1960,male,White,Not Hispanic or Latino,Marquette,241,FALSE
+1033,Myung778 Penny812 Eichmann909,1/31/1955,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,59,FALSE
+1034,Nakesha793 Carisa395 Zieme486,10/15/1958,female,Other,Not Hispanic or Latino,Marquette,66,FALSE
+1035,Nakisha629 Dare640,2/2/1988,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,72,FALSE
+1036,Nancey580 Kautzer186,10/21/1976,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,28,FALSE
+1037,Napoleon578 Zachariah133 Konopelski743,12/24/1945,male,White,Not Hispanic or Latino,Marquette,101,FALSE
+1038,Natalie960 Shanae34 Bahringer146,6/7/1982,female,White,Not Hispanic or Latino,Marquette,22,FALSE
+1039,Nathanael908 Lemuel304 Kiehn525,6/30/1947,male,White,Not Hispanic or Latino,Marquette,55,FALSE
+1040,Nathanial472 Pasquale620 Rice937,1/27/1951,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,60,FALSE
+1041,Nathaniel596 Avery919 Tremblay80,7/17/1926,male,White,Not Hispanic or Latino,Marquette,521,FALSE
+1042,Neal874 Colby655 Heller342,3/27/1960,male,White,Not Hispanic or Latino,Marquette,363,FALSE
+1043,Neal874 Derek111 Rowe323,2/18/2008,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+1044,Necole468 Perla570 Kilback373,3/12/1949,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,69,FALSE
+1045,Ned189 Noah480 Douglas31,1/15/1993,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+1046,Nella762 Charlott617 Padberg411,4/21/1994,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,80,FALSE
+1047,Nelle766 Greenfelder433,4/12/1948,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,46,FALSE
+1048,Nelly786 Kutch271,3/10/1967,female,White,Not Hispanic or Latino,Marquette,67,FALSE
+1049,Nery414 Champlin946,4/21/1944,female,White,Not Hispanic or Latino,Marquette,52,FALSE
+1050,Neta452 Reinger292,1/18/1965,female,White,Not Hispanic or Latino,Marquette,100,FALSE
+1051,Nickolas58 Jarrod316 Ritchie586,8/31/1967,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+1052,Nicolette397 Isobel140 Hilpert278,12/10/1965,female,White,Not Hispanic or Latino,Marquette,59,FALSE
+1053,Niesha86 Terica746 Pfeffer420,2/7/2024,female,White,Not Hispanic or Latino,Marquette,7,FALSE
+1054,Nigel915 Long300 Cartwright189,12/5/1943,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+1055,Niki25 Sharlene906 Gleason633,4/27/2011,female,White,Not Hispanic or Latino,Marquette,26,FALSE
+1056,Nikita578 Malisa137 Turner526,2/14/1961,female,White,Not Hispanic or Latino,Marquette,520,FALSE
+1057,Nilsa143 Johnson679,3/30/1961,female,White,Not Hispanic or Latino,Marquette,33,FALSE
+1058,Nisha529 Chong355 Quigley282,12/7/2014,female,White,Not Hispanic or Latino,Marquette,28,FALSE
+1059,Nita296 Cynthia180 Schneider199,11/16/1917,female,White,Not Hispanic or Latino,Marquette,665,FALSE
+1060,Noe500 O'Keefe54,2/15/1966,male,White,Not Hispanic or Latino,Marquette,12,FALSE
+1061,Noel608 Ross213 Klein929,10/18/1960,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+1062,Nolan344 Wilfredo622 Marks830,10/9/1966,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+1063,Norbert530 Frederick289 Grimes165,6/7/2008,male,White,Not Hispanic or Latino,Marquette,27,TRUE
+1064,Norbert530 Cruz300 Price929,7/2/1972,male,White,Not Hispanic or Latino,Marquette,45,FALSE
+1065,Noreen211 Josephina269 Heidenreich818,6/4/1991,female,White,Not Hispanic or Latino,Marquette,74,FALSE
+1066,Norine97 Saran641 Wilderman619,1/28/1958,female,White,Not Hispanic or Latino,Marquette,507,FALSE
+1067,Normand813 Sterling124 Mills423,3/7/1960,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,23,FALSE
+1068,Norris589 Lanny564 O'Reilly797,11/7/1965,male,White,Not Hispanic or Latino,Marquette,77,FALSE
+1069,Nova124 Ima629 Carter549,8/27/2007,female,White,Not Hispanic or Latino,Marquette,25,FALSE
+1070,Nydia801 Kristy290 Tromp100,10/7/1960,female,White,Not Hispanic or Latino,Marquette,24,FALSE
+1071,Odelia236 Terrilyn343 Hamill307,1/6/1957,female,White,Not Hispanic or Latino,Marquette,28,TRUE
+1072,Odell776 Bev675 Abshire638,3/6/1993,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+1073,Odell776 Johnson679,11/1/1972,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+1074,Odell776 Guillermo498 O'Connell601,10/31/1954,male,White,Not Hispanic or Latino,Marquette,593,FALSE
+1075,Odilia72 Hillary281 Kirlin939,6/21/1994,female,White,Not Hispanic or Latino,Marquette,45,FALSE
+1076,Odis959 Hollis7 Miller503,10/5/1974,male,White,Not Hispanic or Latino,Marquette,76,FALSE
+1077,Olin642 Bo157 Nader710,9/1/1945,male,White,Not Hispanic or Latino,Marquette,138,FALSE
+1078,Olivia294 Maryanna659 Hyatt152,7/14/2023,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,9,FALSE
+1079,Omer483 Ivory697 Ankunding277,6/16/1928,male,White,Not Hispanic or Latino,Marquette,415,FALSE
+1080,Onita767 Racquel201 Bashirian201,7/20/1984,female,White,Not Hispanic or Latino,Marquette,73,FALSE
+1081,Oralee226 Josette398 Wilderman619,3/3/1969,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+1082,Oren284 Cedric746 Lehner980,5/21/2004,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+1083,Oretha285 China583 Rice937,8/9/1965,female,White,Not Hispanic or Latino,Marquette,90,FALSE
+1084,Orlando897 Tyrell880 Daugherty69,8/13/1988,male,White,Not Hispanic or Latino,Marquette,57,FALSE
+1085,Oscar384 Ferdinand55 Kunze215,4/9/2004,male,White,Not Hispanic or Latino,Marquette,22,TRUE
+1086,Otelia900 Mante251,3/14/1971,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,27,FALSE
+1087,Otto672 Michal596 MacGyver246,12/1/1960,male,Other,Not Hispanic or Latino,Marquette,293,FALSE
+1088,Ozie87 Anitra287 Quigley282,11/12/1959,female,White,Not Hispanic or Latino,Marquette,47,FALSE
+1089,Ozzie259 Paucek755,9/5/1967,male,White,Not Hispanic or Latino,Marquette,296,FALSE
+1090,Pablo44 McClure239,10/21/1956,male,White,Not Hispanic or Latino,Marquette,45,FALSE
+1091,Pablo44 Darron84 Pollich983,6/16/1928,male,White,Not Hispanic or Latino,Marquette,467,FALSE
+1092,Page791 George991 Kohler843,8/8/2017,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,28,TRUE
+1093,Pandora807 John539 Veum823,3/16/1957,female,White,Not Hispanic or Latino,Marquette,48,FALSE
+1094,Pansy803 Alexandria361 Larson43,8/9/1950,female,White,Not Hispanic or Latino,Marquette,129,FALSE
+1095,Paris331 Hoeger474,2/3/1972,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+1096,Patricio639 Gabriel934 AvilÃ©s474,11/27/1920,male,White,Hispanic or Latino,Marquette,517,FALSE
+1097,Patricio639 Ulibarri312,11/27/1920,male,White,Hispanic or Latino,Marquette,69,FALSE
+1098,Patrick786 Connelly992,3/31/2001,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,52,FALSE
+1099,Patrick786 Gutmann970,11/20/1991,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+1100,Patti584 Schulist381,8/12/1989,female,White,Not Hispanic or Latino,Marquette,53,FALSE
+1101,Paula289 Earnestine14 Murazik203,7/1/1968,female,White,Not Hispanic or Latino,Marquette,27,TRUE
+1102,Pauletta164 Janell58 Hansen121,5/26/1973,female,White,Not Hispanic or Latino,Marquette,58,FALSE
+1103,Peg114 Branda994 Adams676,2/12/1961,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1104,Pete38 Gus973 Brown30,11/23/1999,male,White,Not Hispanic or Latino,Marquette,52,FALSE
+1105,Philip822 Robbie31 Klocko335,3/6/2018,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+1106,Philip822 Manuel446 Schaden604,6/19/1985,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,31,FALSE
+1107,Phillip440 Brent147 Aufderhar910,7/26/2013,male,Black or African American,Not Hispanic or Latino,Marquette,19,FALSE
+1108,Phillip440 Sergio619 Jakubowski832,7/18/1997,male,White,Not Hispanic or Latino,Marquette,14,FALSE
+1109,Phillip440 Lindsey52 Quigley282,8/28/1983,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+1110,Ping698 Eladia866 Cassin499,11/17/1950,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,36,FALSE
+1111,Piper612 Oma395 Kassulke119,10/6/1953,female,White,Not Hispanic or Latino,Marquette,51,FALSE
+1112,Porter490 Earnest658 Gutmann970,3/3/1970,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+1113,Precious140 Holley125 Hirthe744,10/19/1987,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+1114,Precious140 VonRueden376,3/21/2006,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+1115,Preston275 Walsh511,9/28/1940,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,77,FALSE
+1116,Princess223 Yolonda722 Heaney114,8/12/2006,female,White,Not Hispanic or Latino,Marquette,21,FALSE
+1117,Providencia986 Jeanice469 Goodwin327,5/16/1962,female,White,Not Hispanic or Latino,Marquette,68,FALSE
+1118,Prudence900 Cindy893 Moen819,12/21/1964,female,White,Not Hispanic or Latino,Marquette,470,FALSE
+1119,Pura348 Beverlee316 Jacobi462,12/17/1995,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,28,FALSE
+1120,Pura348 Cindie288 Emmerich580,12/28/1983,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,85,FALSE
+1121,Quincy153 Tillman293,4/22/1946,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,47,FALSE
+1122,Quinn173 Mohr916,1/26/1971,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+1123,Quintin944 Quinn173 Price929,7/13/1951,male,White,Not Hispanic or Latino,Marquette,164,FALSE
+1124,Rachael540 Shannon293 Hintz995,11/7/1971,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,50,FALSE
+1125,Raeann749 Antonio44 Kuphal363,5/7/1982,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+1126,Raeann749 Wehner319,9/11/1972,female,White,Not Hispanic or Latino,Marquette,21,FALSE
+1127,Raeann749 Wuckert783,4/5/2015,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+1128,Rafael239 Columbus656 Ruecker817,4/25/2017,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+1129,Raleigh478 Berry486 Gerlach374,8/3/1971,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,69,FALSE
+1130,Raleigh478 Carol737 Kling921,11/14/2014,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,21,FALSE
+1131,Ramiro608 Lomeli256,8/24/1957,male,White,Hispanic or Latino,Marquette,556,FALSE
+1132,Ramiro608 Walsh511,9/10/1964,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+1133,Ramiro608 Xavier983 Waters156,4/20/2000,male,White,Not Hispanic or Latino,Marquette,19,TRUE
+1134,Ramon749 Ike571 Effertz744,12/18/1918,male,White,Not Hispanic or Latino,Marquette,551,FALSE
+1135,Randal152 Erwin847 Gorczany269,10/12/2013,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+1136,Randi364 Polly738 Pouros728,9/26/1970,female,White,Not Hispanic or Latino,Marquette,42,FALSE
+1137,Ray930 Zetta950 Ledner144,5/21/1952,female,White,Not Hispanic or Latino,Marquette,70,TRUE
+1138,Rayna237 Deedee112 Donnelly343,9/28/1968,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1139,Reatha769 Kshlerin58,6/8/2013,female,White,Not Hispanic or Latino,Marquette,42,FALSE
+1140,Rebbeca432 Maudie129 Rogahn59,12/21/1964,female,White,Not Hispanic or Latino,Marquette,28,FALSE
+1141,Reed154 Abernathy524,11/13/1945,male,White,Not Hispanic or Latino,Marquette,658,FALSE
+1142,Reed154 Esteban536 Hagenes547,1/27/1968,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,39,FALSE
+1143,Reed154 Alfred550 Koepp521,10/17/1947,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,46,FALSE
+1144,Refugio197 Darius626 Schroeder447,10/16/2010,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+1145,Regena252 Reina25 Graham902,8/25/1936,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,46,FALSE
+1146,Reggie481 Shawn523 Grimes165,6/28/2024,male,White,Not Hispanic or Latino,Marquette,5,FALSE
+1147,Regina408 Dot905 Pouros728,12/1/1945,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+1148,Reginald96 Otto672 Olson653,11/24/1941,male,White,Not Hispanic or Latino,Marquette,44,FALSE
+1149,Regine404 Marceline716 Bergstrom287,5/1/1960,female,White,Not Hispanic or Latino,Marquette,93,FALSE
+1150,Reid278 Friesen796,4/16/1916,male,White,Not Hispanic or Latino,Marquette,88,FALSE
+1151,Reid278 Chase54 Lueilwitz711,5/17/1993,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,22,FALSE
+1152,Reid278 Raymundo71 Swaniawski813,8/23/2017,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,26,FALSE
+1153,Reid278 Nicholas495 Yost751,9/28/1940,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,197,FALSE
+1154,Reina25 Shizue554 Baumbach677,7/8/2000,female,White,Not Hispanic or Latino,Marquette,52,FALSE
+1155,Rema399 Tianna963 Bailey598,2/5/1971,female,White,Not Hispanic or Latino,Marquette,26,FALSE
+1156,Renaldo199 O'Conner199,6/22/1949,male,Other,Not Hispanic or Latino,Marquette,56,FALSE
+1157,Renato359 Cremin516,3/20/1950,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+1158,Renato359 Dewey930 Schulist381,5/13/1940,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,691,FALSE
+1159,Renato359 Marion502 Terry864,12/18/1918,male,White,Not Hispanic or Latino,Marquette,121,FALSE
+1160,Renita685 Madelaine318 Lockman863,1/11/1942,female,White,Not Hispanic or Latino,Marquette,219,TRUE
+1161,Rey54 Carroll471,4/26/1958,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,64,FALSE
+1162,Rey54 Rodrigo242 Funk324,11/14/1971,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,37,FALSE
+1163,Reynalda736 Marvin195,10/17/2001,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,22,FALSE
+1164,Reynaldo722 Stewart672 Dach178,1/29/1974,male,White,Not Hispanic or Latino,Marquette,86,FALSE
+1165,Rhett759 Lawerence6 Kohler843,7/2/1999,male,White,Not Hispanic or Latino,Marquette,13,FALSE
+1166,Rhett759 Cristobal567 Orn563,6/24/1967,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+1167,Rhiannon677 Leora789 Moen819,9/28/1957,female,White,Not Hispanic or Latino,Marquette,351,FALSE
+1168,Rhoda854 Maggie320 Roberts511,12/28/2024,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,2,FALSE
+1169,Rhona164 Adelaida985 Herman763,12/11/1947,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+1170,Rich940 Shaun461 Bednar518,2/26/1975,male,White,Not Hispanic or Latino,Marquette,595,FALSE
+1171,Rickie717 Cortez851 Gutkowski940,5/28/1960,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,43,FALSE
+1172,Rico947 Funk324,8/30/2002,male,White,Not Hispanic or Latino,Marquette,18,TRUE
+1173,Rikki26 Ryann170 Bailey598,5/5/1956,female,White,Not Hispanic or Latino,Marquette,54,FALSE
+1174,Rita460 My508 Swaniawski813,4/12/1953,female,White,Not Hispanic or Latino,Marquette,62,FALSE
+1175,Robbie31 Fermina506 McKenzie376,9/23/2014,female,White,Not Hispanic or Latino,Marquette,35,FALSE
+1176,Robby860 Boyd728 Mayert710,10/9/1953,male,White,Not Hispanic or Latino,Marquette,39,TRUE
+1177,Robert854 Claud279 Brown30,4/12/1958,male,White,Hispanic or Latino,Marquette,73,FALSE
+1178,Robert854 Kelley882 Hilll811,10/15/2021,male,White,Not Hispanic or Latino,Marquette,16,FALSE
+1179,Robert854 Salvatore257 MacGyver246,4/6/2021,male,White,Not Hispanic or Latino,Marquette,20,TRUE
+1180,Roberto515 Gerald181 Ruecker817,1/9/2001,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+1181,Robt687 Lewis216 Sanford861,10/17/1972,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+1182,Robt687 Marcelino726 Toy286,3/28/1952,male,White,Not Hispanic or Latino,Marquette,67,FALSE
+1183,Robyn562 Traci329 Jacobs452,1/27/2009,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,21,TRUE
+1184,Rochell365 Mirella222 Hayes766,3/30/2011,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,34,TRUE
+1185,Rocio28 Anamaria46 Quigley282,9/27/1967,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,48,TRUE
+1186,Rocio28 Darnell564 Braun514,11/23/1950,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,89,FALSE
+1187,Roderick835 Adams676,1/23/2016,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+1188,Roderick835 Ricky354 Paucek755,7/13/1951,male,White,Not Hispanic or Latino,Marquette,651,FALSE
+1189,Roderick835 Rene434 Sawayn19,8/2/2017,male,White,Not Hispanic or Latino,Marquette,23,TRUE
+1190,Rodger755 Aron520 Mante251,10/8/1947,male,White,Not Hispanic or Latino,Marquette,92,FALSE
+1191,Rodger755 Olen518 Marvin195,9/2/1972,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,46,FALSE
+1192,Rodger755 Schmeler639,11/21/1963,male,White,Not Hispanic or Latino,Marquette,495,FALSE
+1193,Rodger755 Frederick289 Simonis280,9/26/1966,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,98,TRUE
+1194,Rodolfo763 Clifford177 Medhurst46,8/20/1968,male,White,Not Hispanic or Latino,Marquette,26,TRUE
+1195,Rodolfo763 Ziemann98,2/19/2006,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+1196,Rogelio17 Smith67,3/28/1952,male,White,Not Hispanic or Latino,Marquette,499,FALSE
+1197,Roland928 Larkin917,5/6/1972,male,White,Not Hispanic or Latino,Marquette,176,FALSE
+1198,Rolando809 Jamaal34 Will178,3/2/1941,male,White,Not Hispanic or Latino,Marquette,44,FALSE
+1199,Roma9 Arlean815 Rogahn59,6/9/1959,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,38,FALSE
+1200,Romeo514 Mike230 Champlin946,6/8/1971,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,87,FALSE
+1201,Ronald408 Nathan164 Dare640,5/10/2006,male,White,Not Hispanic or Latino,Marquette,25,FALSE
+1202,Ronnie7 Clair921 Hahn503,4/25/1955,male,White,Not Hispanic or Latino,Marquette,76,FALSE
+1203,Ronnie7 Liliana922 Yost751,5/16/1962,female,White,Not Hispanic or Latino,Marquette,97,FALSE
+1204,Ronny764 Ramon749 Hirthe744,7/10/1982,male,White,Not Hispanic or Latino,Marquette,13,FALSE
+1205,Roosevelt595 Rodrigo242 Gerlach374,10/21/1956,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+1206,Rory188 Muller251,5/17/1940,male,White,Not Hispanic or Latino,Marquette,119,FALSE
+1207,Rosalee63 Mayer370,12/22/2000,female,White,Not Hispanic or Latino,Marquette,28,TRUE
+1208,Rosalia943 Mohr916,11/9/2003,female,White,Not Hispanic or Latino,Marquette,57,FALSE
+1209,Rosario163 Clint766 Dicki44,10/21/1971,male,White,Not Hispanic or Latino,Marquette,21,TRUE
+1210,Roscoe437 Hollis7 Brown30,5/15/2021,male,White,Not Hispanic or Latino,Marquette,14,FALSE
+1211,Roscoe437 Richie600 Cartwright189,3/11/2022,male,White,Not Hispanic or Latino,Marquette,14,FALSE
+1212,Rosenda12 Merissa718 Goldner995,7/1/1941,female,White,Not Hispanic or Latino,Marquette,137,FALSE
+1213,Rosetta750 Galina98 Stehr398,10/27/1942,female,White,Not Hispanic or Latino,Marquette,53,TRUE
+1214,Rosetta750 Juliette736 Wehner319,4/6/1976,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,21,FALSE
+1215,Ross213 Warner493 Koss676,9/28/1977,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+1216,Ross213 Mohammed454 Marks830,3/5/1945,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+1217,Ross213 Cedric746 Skiles927,1/8/1982,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+1218,Ross213 Lazaro919 Torp761,9/17/2007,male,White,Not Hispanic or Latino,Marquette,38,TRUE
+1219,Roy364 Adan632 Doyle959,10/8/1965,male,White,Not Hispanic or Latino,Marquette,38,FALSE
+1220,Ruben688 Burl285 Stamm704,12/28/1951,male,White,Not Hispanic or Latino,Marquette,487,FALSE
+1221,Rubie803 Eleanor470 Shanahan202,7/30/1957,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,63,FALSE
+1222,Rubin812 Judson999 Grant908,9/12/2022,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,13,FALSE
+1223,Rubin812 Brice635 Kohler843,1/1/1968,male,White,Not Hispanic or Latino,Marquette,55,FALSE
+1224,Rudolf736 Alonso270 Buckridge80,8/1/1948,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+1225,Rudy520 Ritchie586,8/31/1928,male,White,Not Hispanic or Latino,Marquette,53,TRUE
+1226,Rueben647 Judson999 Dibbert990,4/12/1958,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+1227,Rupert654 Dietrich576,11/2/2006,male,White,Not Hispanic or Latino,Marquette,65,FALSE
+1228,Rupert654 Mose244 Torphy630,7/17/1926,male,White,Not Hispanic or Latino,Marquette,75,FALSE
+1229,Russel238 Morar593,3/29/2010,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,17,FALSE
+1230,Rusty501 Ron353 Rolfson709,1/10/1963,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+1231,Ruth999 Armandina361 Breitenberg711,2/29/1980,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,45,FALSE
+1232,Sage164 Nanette893 Volkman526,12/12/2011,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,45,FALSE
+1233,Sal878 Bartell116,1/21/1981,male,White,Not Hispanic or Latino,Marquette,25,FALSE
+1234,Sal878 Guillermo498 Lehner980,10/17/1947,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,23,FALSE
+1235,Sal878 Marcelino726 Mills423,1/1/1996,male,White,Not Hispanic or Latino,Marquette,9,FALSE
+1236,Sal878 Carlton317 Walter473,5/27/1925,male,White,Not Hispanic or Latino,Marquette,63,FALSE
+1237,Salina386 Judith460 Swaniawski813,11/25/1948,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,250,FALSE
+1238,Salley758 Tomeka87 Hamill307,5/26/1972,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,65,FALSE
+1239,Sallie654 Shanel903 Shields502,1/4/1991,female,White,Not Hispanic or Latino,Marquette,43,TRUE
+1240,Sam879 Stanton715,7/27/2006,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,118,FALSE
+1241,Sammie902 Dillon740 Orn563,3/30/1971,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,102,FALSE
+1242,Sammy219 Robt687 Flatley871,3/28/1986,male,Other,Not Hispanic or Latino,Marquette,23,FALSE
+1243,Sang383 Tristan353 Smitham825,3/22/1983,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+1244,Santo387 Everette494 Grady603,2/14/2011,male,White,Not Hispanic or Latino,Marquette,21,FALSE
+1245,Sari509 Danyelle408 Reichel38,7/29/1979,female,White,Not Hispanic or Latino,Marquette,17,FALSE
+1246,Sari509 Mckenzie208 Gleichner915,1/24/1926,female,White,Not Hispanic or Latino,Marquette,196,FALSE
+1247,Saul605 Al123 White193,9/27/2004,male,White,Not Hispanic or Latino,Marquette,25,FALSE
+1248,Savannah232 Carolyn322 Wolf938,9/2/1956,female,White,Not Hispanic or Latino,Marquette,59,FALSE
+1249,Scarlett814 Kellee902 Rippin620,6/30/1973,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+1250,Scot349 Ted955 Hintz995,3/2/1941,male,White,Not Hispanic or Latino,Marquette,35,FALSE
+1251,Scot349 Dalton260 Shanahan202,2/28/1963,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,35,FALSE
+1252,Sebastian508 Carmine137 Metz686,12/21/1940,male,White,Not Hispanic or Latino,Marquette,85,FALSE
+1253,Sebastian508 Eugenio846 Schinner682,1/23/1952,male,Black or African American,Not Hispanic or Latino,Marquette,51,TRUE
+1254,Seth414 Douglass930 Bayer639,12/5/1973,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+1255,Seth414 Mikel238 Gottlieb798,8/28/2010,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+1256,Seth414 Edgar153 Von197,8/9/2008,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,17,FALSE
+1257,Setsuko288 Lakita48 Kuhlman484,11/12/1963,female,White,Not Hispanic or Latino,Marquette,49,FALSE
+1258,Shae705 Cathryn51 Senger904,6/16/1989,female,White,Not Hispanic or Latino,Marquette,61,FALSE
+1259,Shaina440 Tomasa683 Torphy630,9/3/1997,female,White,Not Hispanic or Latino,Marquette,20,FALSE
+1260,Shakita329 Wisoky380,8/11/2020,female,White,Not Hispanic or Latino,Marquette,16,FALSE
+1261,Shalanda398 Wisoky380,5/3/1974,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+1262,Shandi937 Shaneka79 Fisher429,10/5/1969,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+1263,Shane235 Kris249 Hahn503,10/21/1959,male,Black or African American,Not Hispanic or Latino,Marquette,26,TRUE
+1264,Shane235 Humberto482 Hammes673,12/20/2011,male,White,Not Hispanic or Latino,Marquette,42,FALSE
+1265,Shane235 Jeremiah751 Kassulke119,1/23/1972,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+1266,Shaneka79 Dion244 Cummerata161,10/9/2014,female,White,Not Hispanic or Latino,Marquette,24,FALSE
+1267,Shanell37 Zoraida650 Beer512,4/4/1971,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+1268,Shanelle862 Ziemann98,10/16/1921,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,546,FALSE
+1269,Shanita956 Melynda458 Erdman779,8/1/1961,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+1270,Shanita956 Vernetta697 Rempel203,10/8/1959,female,White,Not Hispanic or Latino,Marquette,56,TRUE
+1271,Shanna635 Fritsch593,6/13/1956,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,193,TRUE
+1272,Shantay950 Cherri385 Feeney44,5/7/2024,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,5,FALSE
+1273,Shantel839 Charleen536 Cartwright189,1/17/1998,female,White,Not Hispanic or Latino,Marquette,66,TRUE
+1274,Shaquana156 Breanne585 Kuhic920,1/18/1962,female,White,Not Hispanic or Latino,Marquette,76,FALSE
+1275,Shaquita282 Nicki254 Hessel84,5/16/1962,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,45,FALSE
+1276,Shaquita282 Rebekah348 Swaniawski813,3/11/1961,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+1277,Sharda101 Charissa38 Cummings51,1/17/2021,female,Black or African American,Not Hispanic or Latino,Marquette,21,FALSE
+1278,Sharen57 Ligia986 Stroman228,11/16/1917,female,White,Not Hispanic or Latino,Marquette,224,FALSE
+1279,Shasta644 Jenette717 Wilkinson796,8/24/1951,female,Other,Not Hispanic or Latino,Marquette,33,FALSE
+1280,Shauna908 Lesa839 Hansen121,9/26/1943,female,White,Not Hispanic or Latino,Marquette,100,FALSE
+1281,Shawanna357 Myrtis608 Nader710,10/22/1994,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1282,Shawn523 Phil587 Beahan375,10/27/1973,male,White,Not Hispanic or Latino,Marquette,26,TRUE
+1283,Shay725 Lisha487 Stehr398,3/22/1956,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,102,FALSE
+1284,Shayne60 Robin66 Kris249,1/2/1971,male,Black or African American,Not Hispanic or Latino,Marquette,21,FALSE
+1285,Shelby741 Harley673 Koch169,3/6/1963,male,White,Not Hispanic or Latino,Marquette,41,FALSE
+1286,Shelby741 Armanda758 Lehner980,7/1/2019,female,White,Not Hispanic or Latino,Marquette,17,FALSE
+1287,Sheldon401 Lloyd546 Price929,8/29/2011,male,White,Not Hispanic or Latino,Marquette,51,FALSE
+1288,Shelli447 Kareen958 Schneider199,5/5/2009,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,83,FALSE
+1289,Sheree902 Dominga527 Von197,3/16/1957,female,White,Not Hispanic or Latino,Marquette,89,FALSE
+1290,Sherie778 Maryanne663 Green467,12/13/1956,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+1291,Sherman440 Antonia30 Wolf938,6/18/1951,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+1292,Shirleen968 Lea264 Hickle134,2/14/2014,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+1293,Shizue554 Twila243 Ritchie586,7/19/1956,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+1294,Shu104 Auer97,11/8/1962,female,Other,Not Hispanic or Latino,Marquette,90,FALSE
+1295,Sibyl335 Nichol11 Schroeder447,12/16/1988,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,15,TRUE
+1296,Sibyl335 Theo630 Prosacco716,12/23/2022,female,Black or African American,Not Hispanic or Latino,Marquette,9,FALSE
+1297,Sid118 Willard975 Sawayn19,6/12/2013,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,19,FALSE
+1298,Sidney996 MacGyver246,12/28/2003,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+1299,Sidney996 Ulysses632 Padberg411,9/25/1976,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+1300,Silva841 Sheilah526 Miller503,9/8/2018,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,30,FALSE
+1301,Silvia880 Celsa248 Sipes176,2/17/2013,female,White,Not Hispanic or Latino,Marquette,24,FALSE
+1302,Simon598 Frances376 Kris249,5/27/1925,male,White,Not Hispanic or Latino,Marquette,49,FALSE
+1303,Simon598 Royal919 Swift555,7/13/1951,male,White,Not Hispanic or Latino,Marquette,605,FALSE
+1304,Simonne139 Carl856 Weimann465,7/19/1972,female,White,Not Hispanic or Latino,Marquette,35,FALSE
+1305,Simonne139 Elissa919 Lynch190,4/8/1976,female,White,Not Hispanic or Latino,Marquette,74,FALSE
+1306,Sirena316 Zenaida56 Will178,3/25/2018,female,White,Not Hispanic or Latino,Marquette,19,FALSE
+1307,Skye332 Genia944 Barton704,8/25/2005,female,White,Not Hispanic or Latino,Marquette,30,FALSE
+1308,Sol312 Genaro214 Cummings51,7/7/1960,male,White,Not Hispanic or Latino,Marquette,61,FALSE
+1309,Son314 Marybelle759 Cole117,10/20/1976,female,White,Not Hispanic or Latino,Marquette,59,FALSE
+1310,Son314 Kulas532,9/11/1947,male,White,Not Hispanic or Latino,Marquette,72,FALSE
+1311,Sonny285 Randy380 Goldner995,1/15/1966,male,White,Not Hispanic or Latino,Marquette,28,FALSE
+1312,Sophie40 Marquita692 Dooley940,1/27/1973,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+1313,Spencer878 Anibal473 Ondricka197,11/24/1972,male,White,Not Hispanic or Latino,Marquette,364,FALSE
+1314,Spring819 Norah104 Waelchi213,10/15/1972,female,White,Not Hispanic or Latino,Marquette,72,FALSE
+1315,Stacey209 Roma9 Mueller846,6/13/2011,female,White,Not Hispanic or Latino,Marquette,21,FALSE
+1316,Stan246 Craig656 Gleichner915,8/24/2003,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+1317,Stanford577 Clifton91 Gislason620,11/27/2005,male,White,Not Hispanic or Latino,Marquette,44,FALSE
+1318,Stanley702 Jay242 Swift555,5/13/2005,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,95,FALSE
+1319,Stanley702 Dewey930 Walter473,3/15/1967,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+1320,Stefania815 Chery887 Corkery305,9/8/1979,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+1321,Stella203 Mathilde204 Predovic534,6/30/2001,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,25,FALSE
+1322,Stephan15 Luke971 Heller342,5/17/1990,male,Black or African American,Not Hispanic or Latino,Marquette,16,FALSE
+1323,Stephen891 Shavonne800 Mills423,12/2/2004,female,Other,Not Hispanic or Latino,Marquette,39,FALSE
+1324,Stewart672 Jake169 Corkery305,2/19/1956,male,Other,Not Hispanic or Latino,Marquette,199,FALSE
+1325,Stewart672 Ernesto186 Fay398,1/2/2006,male,White,Not Hispanic or Latino,Marquette,40,FALSE
+1326,Susy776 Cristy798 Kovacek682,9/27/1924,female,White,Not Hispanic or Latino,Marquette,72,FALSE
+1327,Suzy993 Genna99 Kuvalis369,11/17/1949,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+1328,Synthia172 Kuhn96,1/21/1997,female,White,Not Hispanic or Latino,Marquette,55,FALSE
+1329,Tabetha269 Marks830,3/12/1969,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,30,FALSE
+1330,Talia631 Marilou153 Thompson596,8/3/2011,female,Other,Not Hispanic or Latino,Marquette,24,FALSE
+1331,Tamara8 Carley868 Feest103,3/16/2018,female,White,Not Hispanic or Latino,Marquette,19,FALSE
+1332,Tamesha39 Nancee600 Schoen8,11/5/1959,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+1333,Tami145 Teofila990 Kautzer186,5/26/1970,female,White,Not Hispanic or Latino,Marquette,323,FALSE
+1334,Tammie751 Bok974 Harris789,9/11/1972,female,White,Not Hispanic or Latino,Marquette,34,TRUE
+1335,Tania553 Emmerich580,4/14/1973,female,White,Not Hispanic or Latino,Marquette,52,FALSE
+1336,Tanner110 Jordon466 Runte676,3/20/1950,male,White,Not Hispanic or Latino,Marquette,255,FALSE
+1337,Taryn906 Timika369 Lockman863,4/28/2008,female,White,Not Hispanic or Latino,Marquette,28,FALSE
+1338,Tatum703 Greenfelder433,10/27/1978,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,54,FALSE
+1339,Taylor21 Jewel43 Gerhold939,8/18/1934,male,White,Not Hispanic or Latino,Marquette,89,FALSE
+1340,Ted955 Patrick786 Jerde200,12/15/1963,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+1341,Ted955 Darrin898 Monahan736,1/4/1929,male,White,Not Hispanic or Latino,Marquette,466,FALSE
+1342,Teddy976 Ty725 Pollich983,9/11/1934,male,White,Not Hispanic or Latino,Marquette,443,FALSE
+1343,Teena223 Cristen212 Mertz280,12/16/1954,female,White,Not Hispanic or Latino,Marquette,89,FALSE
+1344,Tennie915 Shanita956 Lehner980,4/9/1953,female,Asian,Not Hispanic or Latino,Marquette,53,FALSE
+1345,Tequila897 Giselle809 Kemmer137,10/28/2023,female,White,Not Hispanic or Latino,Marquette,7,FALSE
+1346,Tequila897 Wesley533 Heidenreich818,2/18/1960,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,69,FALSE
+1347,Tera136 Lorraine478 Tremblay80,7/17/1978,female,White,Not Hispanic or Latino,Marquette,17,FALSE
+1348,Tereasa291 Kerluke267,8/18/1956,female,White,Not Hispanic or Latino,Marquette,47,FALSE
+1349,Terence292 Merlin721 Kozey370,1/21/1960,male,White,Not Hispanic or Latino,Marquette,130,FALSE
+1350,Teresa94 Perla570 Schaefer657,3/24/2018,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,28,FALSE
+1351,Terrell212 Carl856 Corwin846,3/5/1970,male,White,Not Hispanic or Latino,Marquette,52,FALSE
+1352,Terrell212 Kiehn525,5/23/1994,female,White,Not Hispanic or Latino,Marquette,198,FALSE
+1353,Terrell212 Macejkovic424,6/21/1942,female,White,Not Hispanic or Latino,Marquette,50,FALSE
+1354,Terrilyn343 Son314 Yost751,5/20/1942,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+1355,Terry864 Ty725 Boehm581,3/26/1972,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+1356,Terry864 Schmeler639,6/28/1974,male,White,Not Hispanic or Latino,Marquette,60,FALSE
+1357,Tessa832 Sylvie540 Erdman779,11/5/1959,female,White,Not Hispanic or Latino,Marquette,47,FALSE
+1358,Thad495 Vance413 Hettinger594,3/15/1957,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,49,TRUE
+1359,Thaddeus38 Kelly223 Buckridge80,3/31/2013,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+1360,Thaddeus38 Todd315 Wuckert783,7/17/1979,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+1361,Theo630 Gil594 Koelpin146,1/7/1972,male,White,Not Hispanic or Latino,Marquette,489,FALSE
+1362,Theron432 Vance413 McKenzie376,5/19/1951,male,White,Not Hispanic or Latino,Marquette,79,FALSE
+1363,Thi53 Glady857 Crist667,6/21/1942,female,White,Not Hispanic or Latino,Marquette,56,FALSE
+1364,Thurman577 Anderson154 Kling921,3/4/1986,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,19,FALSE
+1365,Tia76 Anna632 Auer97,4/8/1967,female,White,Not Hispanic or Latino,Marquette,353,FALSE
+1366,Tien590 An125 Hartmann983,11/17/2021,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,16,FALSE
+1367,Tiffani287 Roslyn469 Schoen8,3/21/1964,female,White,Not Hispanic or Latino,Marquette,34,FALSE
+1368,Tiffany303 Richelle340 Crist667,12/31/2014,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+1369,Timika369 Mignon230 Daniel959,7/14/1962,female,White,Not Hispanic or Latino,Marquette,91,FALSE
+1370,Timmy68 Octavio643 Tromp100,12/24/1945,male,White,Not Hispanic or Latino,Marquette,450,FALSE
+1371,Timothy142 Monroe732 Douglas31,5/13/1983,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+1372,Timothy142 Brady998 McCullough561,4/8/1965,male,White,Not Hispanic or Latino,Marquette,43,FALSE
+1373,Tobi258 Armanda758 Lueilwitz711,12/1/1988,female,White,Not Hispanic or Latino,Marquette,55,FALSE
+1374,Tobi258 Ethyl508 Welch179,12/18/1990,female,White,Not Hispanic or Latino,Marquette,158,FALSE
+1375,Toby274 Fadel536,10/10/2009,male,White,Not Hispanic or Latino,Marquette,27,TRUE
+1376,Tod265 Drew592 Kshlerin58,11/18/1954,male,White,Not Hispanic or Latino,Marquette,71,FALSE
+1377,Tommy814 Isidro558 Schulist381,5/29/2010,male,White,Not Hispanic or Latino,Marquette,22,FALSE
+1378,Tracie996 Daniel959,1/5/2018,female,White,Not Hispanic or Latino,Marquette,24,FALSE
+1379,Tracy345 Ilona639 Weber641,8/2/1977,female,White,Not Hispanic or Latino,Marquette,35,FALSE
+1380,Tran115 Annelle169 Glover433,12/21/1966,female,White,Not Hispanic or Latino,Marquette,37,FALSE
+1381,Trent525 Alfredo17 Schneider199,2/18/2001,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,96,FALSE
+1382,Trenton748 Dewayne363 Hand679,2/27/1958,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+1383,Trina350 Tonya123 Doyle959,4/18/1945,female,White,Not Hispanic or Latino,Marquette,98,FALSE
+1384,Trinidad33 Margarito178 Rempel203,8/18/1934,male,White,Not Hispanic or Latino,Marquette,466,FALSE
+1385,Trish512 Corrin41 Sporer811,4/16/1971,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,67,FALSE
+1386,Trisha327 Kuhlman484,8/14/1963,female,White,Not Hispanic or Latino,Marquette,51,TRUE
+1387,Troy560 Jessie665 Zieme486,8/1/1972,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,24,FALSE
+1388,Trudy596 Nicolette397 Stokes453,4/14/1966,female,White,Not Hispanic or Latino,Marquette,44,FALSE
+1389,Tuan998 Micah422 Fay398,12/8/1941,male,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,584,FALSE
+1390,Tuan998 Lonnie913 Pollich983,11/24/1941,male,White,Not Hispanic or Latino,Marquette,332,FALSE
+1391,Twana617 Elisha578 Hilll811,12/17/1965,female,White,Not Hispanic or Latino,Marquette,36,FALSE
+1392,Ty725 Sebastian508 Hodkiewicz467,5/31/1961,male,White,Not Hispanic or Latino,Marquette,34,TRUE
+1393,Ty725 Son314 Schimmel440,7/15/1981,male,White,Not Hispanic or Latino,Marquette,14,FALSE
+1394,Tyesha844 Katelin466 Lockman863,1/24/1926,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+1395,Tyler508 Casper496,9/13/1968,male,White,Not Hispanic or Latino,Marquette,25,FALSE
+1396,Tyler508 Danial835 Gleason633,11/23/1958,male,White,Not Hispanic or Latino,Marquette,41,FALSE
+1397,Tyler508 Lon587 Mayert710,6/22/2001,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+1398,Tyree261 Johns824,1/2/1966,male,White,Not Hispanic or Latino,Marquette,52,FALSE
+1399,Tyree261 Eldridge510 Ziemann98,8/18/1995,male,White,Not Hispanic or Latino,Marquette,46,FALSE
+1400,Tyron580 Earl438 Metz686,2/16/1965,male,White,Not Hispanic or Latino,Marquette,79,FALSE
+1401,Tyron580 Willie882 Parisian75,5/27/1925,male,White,Not Hispanic or Latino,Marquette,32,FALSE
+1402,Ulysses632 Bartoletti50,5/27/1925,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+1403,Ulysses632 Tromp100,4/12/1968,male,White,Not Hispanic or Latino,Marquette,33,FALSE
+1404,Un745 Elfreda431 Johnston597,3/11/1946,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,662,FALSE
+1405,Valentina258 Ute382 Conroy74,11/26/1961,female,Other,Not Hispanic or Latino,Marquette,26,FALSE
+1406,Valentine262 Napoleon578 Hand679,11/18/1954,male,White,Not Hispanic or Latino,Marquette,92,FALSE
+1407,Valorie864 Casandra937 Ankunding277,6/19/1963,female,White,Not Hispanic or Latino,Marquette,87,TRUE
+1408,Van763 Hudson301,2/23/1964,male,White,Not Hispanic or Latino,Marquette,67,FALSE
+1409,Vaughn909 Gleason633,4/12/1958,male,White,Not Hispanic or Latino,Marquette,39,FALSE
+1410,Vaughn909 Michael441 Hickle134,11/5/1959,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,701,FALSE
+1411,Velva240 Lavina533 Schamberger479,7/17/1956,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,587,FALSE
+1412,Velva240 Alina705 Stehr398,10/28/2019,female,Other,Not Hispanic or Latino,Marquette,18,FALSE
+1413,Venice604 Shelly431 Streich926,5/11/1978,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,40,FALSE
+1414,Verda448 Jocelyn538 Raynor401,12/30/1960,female,White,Not Hispanic or Latino,Marquette,33,FALSE
+1415,Verlie371 Nikita578 Gulgowski816,9/29/1983,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1416,Vern731 Laurence43 Hegmann834,11/16/1946,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+1417,Vern731 Nader710,3/25/1999,male,White,Not Hispanic or Latino,Marquette,56,FALSE
+1418,Vern731 Luciano237 Vandervort697,1/23/2006,male,White,Not Hispanic or Latino,Marquette,31,FALSE
+1419,Vernell410 Hilpert278,10/26/2015,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1420,Vernell410 Marceline716 Hansen121,5/7/1982,female,White,Not Hispanic or Latino,Marquette,31,FALSE
+1421,Verona337 Charleen536 Pfannerstill264,3/27/1984,female,Other,Not Hispanic or Latino,Marquette,65,FALSE
+1422,Versie644 Lisandra920 Macejkovic424,3/18/1999,female,White,Not Hispanic or Latino,Marquette,54,FALSE
+1423,Vicenta966 Matilde468 Hoppe518,3/22/1956,female,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Marquette,62,FALSE
+1424,Vicente970 Dallas143 Hills818,8/30/1953,male,Black or African American,Not Hispanic or Latino,Marquette,68,FALSE
+1425,Vilma125 Autumn454 Haley279,5/19/1985,female,White,Not Hispanic or Latino,Marquette,515,FALSE
+1426,Vincenzo126 Mason910 Fay398,11/8/1930,male,White,Not Hispanic or Latino,Marquette,51,FALSE
+1427,Virgie92 Mabelle762 Harber290,11/12/1959,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1428,Virgilio529 Antonia30 Abshire638,1/2/2013,male,White,Not Hispanic or Latino,Marquette,27,FALSE
+1429,Vivian245 Avery919 Denesik803,6/12/2012,female,White,Not Hispanic or Latino,Marquette,28,FALSE
+1430,Wade235 Hartmann983,5/29/1972,male,White,Not Hispanic or Latino,Marquette,37,FALSE
+1431,Wade235 Bobbie849 Lubowitz58,4/20/1986,male,White,Not Hispanic or Latino,Marquette,43,FALSE
+1432,Walter473 Mitchell808,11/23/1976,male,White,Not Hispanic or Latino,Marquette,48,FALSE
+1433,Walter473 Ryan260,2/16/1971,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,20,FALSE
+1434,Walton167 Omar359 Morissette863,3/5/1970,male,White,Not Hispanic or Latino,Marquette,23,FALSE
+1435,Walton167 Irvin970 Prohaska837,12/21/1940,male,White,Not Hispanic or Latino,Marquette,67,FALSE
+1436,Walton167 Gustavo235 Wilderman619,10/19/1948,male,White,Not Hispanic or Latino,Marquette,70,FALSE
+1437,Waltraud488 Emmaline88 Willms744,7/16/1996,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+1438,Wan724 Isidra572 Pouros728,10/26/2017,female,White,Not Hispanic or Latino,Marquette,24,FALSE
+1439,Warner493 Salvador46 Ernser583,3/11/2007,male,White,Not Hispanic or Latino,Marquette,24,FALSE
+1440,Wayne846 Rod343 Keebler762,2/12/1927,male,White,Not Hispanic or Latino,Marquette,152,FALSE
+1441,Wenona350 Klocko335,3/22/1947,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+1442,Wes853 Ricardo560 Larkin917,10/9/1953,male,White,Not Hispanic or Latino,Marquette,77,FALSE
+1443,Weston546 Ernser583,7/13/2024,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,4,FALSE
+1444,Weston546 Hayes766,2/23/1961,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+1445,Wilford267 Donte636 Ratke343,5/13/1970,male,White,Not Hispanic or Latino,Marquette,36,FALSE
+1446,Wilford267 Runte676,1/10/1962,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+1447,Wilfred787 Robbie31 O'Connell601,4/30/1965,male,White,Not Hispanic or Latino,Marquette,34,FALSE
+1448,Willa615 Francisca486 Huels583,9/20/1976,female,White,Not Hispanic or Latino,Marquette,67,TRUE
+1449,William805 Ophelia894 Jast432,10/16/1921,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,61,FALSE
+1450,William805 Kohler843,12/27/1966,male,White,Not Hispanic or Latino,Marquette,69,FALSE
+1451,Willian804 Rico947 Funk324,6/29/2005,male,White,Not Hispanic or Latino,Marquette,20,FALSE
+1452,Willie882 Feil794,3/21/2012,male,White,Not Hispanic or Latino,Marquette,26,FALSE
+1453,Williemae619 Alica364 Lehner980,5/13/1951,female,White,Not Hispanic or Latino,Marquette,63,FALSE
+1454,Willis868 Raul814 Herzog843,12/28/1975,male,White,Not Hispanic or Latino,Marquette,29,FALSE
+1455,Wilson960 Eliseo499 Strosin214,2/12/1968,male,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,27,FALSE
+1456,Winfred745 Claudio955 Orn563,9/7/1949,male,White,Not Hispanic or Latino,Marquette,64,FALSE
+1457,Woodrow571 Jess275 Rutherford999,6/22/1984,male,White,Not Hispanic or Latino,Marquette,19,FALSE
+1458,Wyatt967 Hobert364 Robel940,7/12/1995,male,White,Not Hispanic or Latino,Marquette,17,FALSE
+1459,Xenia801 Elisha578 Robel940,7/21/2015,female,White,Not Hispanic or Latino,Marquette,29,FALSE
+1460,Xiomara943 Lela622 Feil794,11/19/1972,female,White,Not Hispanic or Latino,Marquette,39,FALSE
+1461,Yadira684 Deja232 Schroeder447,2/22/1991,female,White,Not Hispanic or Latino,Marquette,86,FALSE
+1462,Yang129 Mollie266 Becker968,12/12/2009,female,White,Not Hispanic or Latino,Marquette,23,FALSE
+1463,Yen770 Dee580 Will178,12/10/1996,female,White,Not Hispanic or Latino,Marquette,27,FALSE
+1464,Yetta429 Nereida276 Hilpert278,6/21/2019,female,White,Not Hispanic or Latino,Marquette,25,FALSE
+1465,Yolonda722 Audrie782 Rolfson709,5/20/1954,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,69,FALSE
+1466,Yon80 Rheba182 Altenwerth646,10/16/1921,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,169,FALSE
+1467,Yong583 Hermann103,9/10/2018,male,White,Hispanic or Latino,Marquette,19,FALSE
+1468,Yong583 Bo157 Rodriguez71,6/4/2010,male,White,Not Hispanic or Latino,Marquette,51,FALSE
+1469,Yukiko930 Cassie490 McCullough561,7/23/2001,female,American Indian or Alaska Native,Not Hispanic or Latino,Marquette,27,FALSE
+1470,Yulanda554 Magaret757 Will178,7/19/1952,female,White,Not Hispanic or Latino,Marquette,38,FALSE
+1471,Yuriko393 Kareen958 Shields502,10/4/1923,female,White,Not Hispanic or Latino,Marquette,32,FALSE
+1472,Zachariah133 Hoppe518,5/29/1963,male,White,Not Hispanic or Latino,Marquette,41,FALSE
+1473,Zachariah133 Nathanial472 Monahan736,7/29/1960,male,White,Not Hispanic or Latino,Marquette,76,TRUE
+1474,Zachery872 Brenton674 Feest103,9/11/1947,male,White,Not Hispanic or Latino,Marquette,544,FALSE
+1475,Zachery872 Metz686,4/1/2018,male,White,Not Hispanic or Latino,Marquette,15,FALSE
+1476,Zackary401 Jordon466 Romaguera67,11/7/1950,male,White,Not Hispanic or Latino,Marquette,87,TRUE
+1477,Zane918 Van763 Watsica258,12/29/1972,male,White,Not Hispanic or Latino,Marquette,30,FALSE
+1478,Zella14 Joaquina124 Stoltenberg489,9/26/2002,female,White,Not Hispanic or Latino,Marquette,99,FALSE
+1479,Zoe32 Audra143 Conn188,6/23/2015,female,White,Not Hispanic or Latino,Marquette,40,FALSE
+,,,,,,,0,FALSE
+,,,,,,,0,FALSE
